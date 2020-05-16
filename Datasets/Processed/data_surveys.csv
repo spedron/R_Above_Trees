@@ -1,0 +1,2143 @@
+"","Site","Site.Age","Forest.Type","Canopy","variable","value"
+"1",1,196,"D","Upper canopy","White spruce",21.7
+"2",1.1,83,"BS","Upper canopy","White spruce",NA
+"3",1.2,93,"WS","Upper canopy","White spruce",NA
+"4",1.3,158,"WS","Upper canopy","White spruce",9.16
+"5",2,35,"D","Upper canopy","White spruce",NA
+"6",2.1,140,"D","Upper canopy","White spruce",NA
+"7",2.2,170,"WS","Upper canopy","White spruce",18.3
+"8",3,185,"D","Upper canopy","White spruce",19
+"9",3.1,128,"D","Upper canopy","White spruce",NA
+"10",3.2,174,"D","Upper canopy","White spruce",NA
+"11",3.3,60,"D","Upper canopy","White spruce",NA
+"12",4,85,"D","Upper canopy","White spruce",24
+"13",4.1,48,"D","Upper canopy","White spruce",NA
+"14",4.2,60,"D","Upper canopy","White spruce",NA
+"15",4.3,71,"D","Upper canopy","White spruce",NA
+"16",4.4,58,"D","Upper canopy","White spruce",NA
+"17",5,5,"recent fire","Upper canopy","White spruce",NA
+"18",5.5,85,"BS","Upper canopy","White spruce",NA
+"19",5.6,92,"BS","Upper canopy","White spruce",NA
+"20",6,52,"WS","Upper canopy","White spruce",24
+"21",6.1,77,"D","Upper canopy","White spruce",6.25
+"22",6.2,90,"D","Upper canopy","White spruce",5
+"23",6.3,87,"D","Upper canopy","White spruce",3.3
+"24",6.4,89,"D","Upper canopy","White spruce",NA
+"25",7,177,"WS","Upper canopy","White spruce",25.67
+"26",7.1,85,"D","Upper canopy","White spruce",NA
+"27",7.2,80,"D","Upper canopy","White spruce",3.3
+"28",7.5,102,"BS","Upper canopy","White spruce",NA
+"29",7.6,114,"BS","Upper canopy","White spruce",NA
+"30",8,19,"Early recovery","Upper canopy","White spruce",NA
+"31",9,76,"BS","Upper canopy","White spruce",3
+"32",9.2,73,"D","Upper canopy","White spruce",16.6
+"33",9.3,78,"D","Upper canopy","White spruce",NA
+"34",9.4,122,"BS","Upper canopy","White spruce",NA
+"35",9.5,67,"D","Upper canopy","White spruce",NA
+"36",9.6,114,"D","Upper canopy","White spruce",NA
+"37",10,32,"Early recovery","Upper canopy","White spruce",12
+"38",11,199,"BS","Upper canopy","White spruce",NA
+"39",11.1,80,"D","Upper canopy","White spruce",2.5
+"40",11.2,99,"D","Upper canopy","White spruce",6.67
+"41",11.3,45,"D","Upper canopy","White spruce",NA
+"42",11.4,54,"D","Upper canopy","White spruce",7.9
+"43",12,60,"D","Upper canopy","White spruce",2
+"44",13,76,"D","Upper canopy","White spruce",NA
+"45",13.1,85,"D","Upper canopy","White spruce",NA
+"46",13.2,85,"D","Upper canopy","White spruce",NA
+"47",14,15,"Early recovery","Upper canopy","White spruce",1.1
+"48",14.1,87,"BS","Upper canopy","White spruce",NA
+"49",14.2,134,"BS","Upper canopy","White spruce",NA
+"50",14.3,65,"BS","Upper canopy","White spruce",NA
+"51",14.4,136,"BS","Upper canopy","White spruce",NA
+"52",14.5,134,"WS","Upper canopy","White spruce",34
+"53",14.6,81,"BS","Upper canopy","White spruce",NA
+"54",15,47,"D","Upper canopy","White spruce",3.67
+"55",15.1,78,"BS","Upper canopy","White spruce",NA
+"56",15.2,83,"BS","Upper canopy","White spruce",NA
+"57",15.3,85,"BS","Upper canopy","White spruce",NA
+"58",15.4,75,"BS","Upper canopy","White spruce",NA
+"59",15.5,80,"BS","Upper canopy","White spruce",NA
+"60",15.6,83,"BS","Upper canopy","White spruce",NA
+"61",16,3,"recent fire","Upper canopy","White spruce",NA
+"62",16.1,118,"D","Upper canopy","White spruce",17.16
+"63",16.2,100,"D","Upper canopy","White spruce",NA
+"64",16.3,106,"D","Upper canopy","White spruce",14.16
+"65",16.4,68,"D","Upper canopy","White spruce",NA
+"66",16.5,138,"D","Upper canopy","White spruce",16.667
+"67",16.6,68,"D","Upper canopy","White spruce",6.67
+"68",17,16,"Early recovery","Upper canopy","White spruce",NA
+"69",17.1,176,"D","Upper canopy","White spruce",NA
+"70",17.2,69,"D","Upper canopy","White spruce",5.5
+"71",17.3,118,"D","Upper canopy","White spruce",5.58
+"72",17.4,136,"D","Upper canopy","White spruce",2.5
+"73",17.5,148,"D","Upper canopy","White spruce",6.91
+"74",17.6,72,"D","Upper canopy","White spruce",3
+"75",18,8,"recent fire","Upper canopy","White spruce",NA
+"76",18.1,125,"BS","Upper canopy","White spruce",NA
+"77",18.2,175,"D","Upper canopy","White spruce",NA
+"78",19,60,"D","Upper canopy","White spruce",6
+"79",20,14,"Early recovery","Upper canopy","White spruce",5
+"80",20.1,75,"BS","Upper canopy","White spruce",NA
+"81",20.2,63,"BS","Upper canopy","White spruce",NA
+"82",20.3,73,"BS","Upper canopy","White spruce",NA
+"83",21.1,73,"BS","Upper canopy","White spruce",NA
+"84",21.2,106,"BS","Upper canopy","White spruce",5
+"85",22.1,60,"D","Upper canopy","White spruce",11.6
+"86",22.2,70,"WS","Upper canopy","White spruce",28.3
+"87",22.3,50,"D","Upper canopy","White spruce",NA
+"88",23.2,83,"D","Upper canopy","White spruce",19.16
+"89",23.3,76,"D","Upper canopy","White spruce",NA
+"90",24.1,83,"WS","Upper canopy","White spruce",NA
+"91",24.2,142,"D","Upper canopy","White spruce",19.16
+"92",24.3,134,"WS","Upper canopy","White spruce",17.5
+"93",25.1,75,"WS","Upper canopy","White spruce",33.3
+"94",25.2,94,"D","Upper canopy","White spruce",2.5
+"95",25.3,140,"WS","Upper canopy","White spruce",15
+"96",27.1,84,"BS","Upper canopy","White spruce",NA
+"97",27.2,66,"BS","Upper canopy","White spruce",NA
+"98",27.3,85,"BS","Upper canopy","White spruce",NA
+"99",29.1,65,"WS","Upper canopy","White spruce",3
+"100",29.2,52,"D","Upper canopy","White spruce",NA
+"101",29.3,52,"WS","Upper canopy","White spruce",35.83
+"102",29.4,105,"WS","Upper canopy","White spruce",17.5
+"103",1,196,"D","Lower canopy","White spruce",4.42
+"104",1.1,83,"BS","Lower canopy","White spruce",NA
+"105",1.2,93,"WS","Lower canopy","White spruce",31.6
+"106",1.3,158,"WS","Lower canopy","White spruce",37.5
+"107",2,35,"D","Lower canopy","White spruce",7.18
+"108",2.1,140,"D","Lower canopy","White spruce",NA
+"109",2.2,170,"WS","Lower canopy","White spruce",32.5
+"110",3,185,"D","Lower canopy","White spruce",6.5
+"111",3.1,128,"D","Lower canopy","White spruce",NA
+"112",3.2,174,"D","Lower canopy","White spruce",NA
+"113",3.3,60,"D","Lower canopy","White spruce",NA
+"114",4,85,"D","Lower canopy","White spruce",15.16
+"115",4.1,48,"D","Lower canopy","White spruce",2.5
+"116",4.2,60,"D","Lower canopy","White spruce",NA
+"117",4.3,71,"D","Lower canopy","White spruce",NA
+"118",4.4,58,"D","Lower canopy","White spruce",NA
+"119",5,5,"recent fire","Lower canopy","White spruce",NA
+"120",5.5,85,"BS","Lower canopy","White spruce",NA
+"121",5.6,92,"BS","Lower canopy","White spruce",NA
+"122",6,52,"WS","Lower canopy","White spruce",NA
+"123",6.1,77,"D","Lower canopy","White spruce",NA
+"124",6.2,90,"D","Lower canopy","White spruce",24.16
+"125",6.3,87,"D","Lower canopy","White spruce",NA
+"126",6.4,89,"D","Lower canopy","White spruce",26.3
+"127",7,177,"WS","Lower canopy","White spruce",9.16
+"128",7.1,85,"D","Lower canopy","White spruce",22.5
+"129",7.2,80,"D","Lower canopy","White spruce",NA
+"130",7.5,102,"BS","Lower canopy","White spruce",NA
+"131",7.6,114,"BS","Lower canopy","White spruce",NA
+"132",8,19,"Early recovery","Lower canopy","White spruce",6.83
+"133",9,76,"BS","Lower canopy","White spruce",NA
+"134",9.2,73,"D","Lower canopy","White spruce",13.3
+"135",9.3,78,"D","Lower canopy","White spruce",8
+"136",9.4,122,"BS","Lower canopy","White spruce",3.3
+"137",9.5,67,"D","Lower canopy","White spruce",NA
+"138",9.6,114,"D","Lower canopy","White spruce",5.3
+"139",10,32,"Early recovery","Lower canopy","White spruce",NA
+"140",11,199,"BS","Lower canopy","White spruce",NA
+"141",11.1,80,"D","Lower canopy","White spruce",NA
+"142",11.2,99,"D","Lower canopy","White spruce",27.9
+"143",11.3,45,"D","Lower canopy","White spruce",NA
+"144",11.4,54,"D","Lower canopy","White spruce",5.41
+"145",12,60,"D","Lower canopy","White spruce",3.87
+"146",13,76,"D","Lower canopy","White spruce",34.5
+"147",13.1,85,"D","Lower canopy","White spruce",2
+"148",13.2,85,"D","Lower canopy","White spruce",1.75
+"149",14,15,"Early recovery","Lower canopy","White spruce",1.1
+"150",14.1,87,"BS","Lower canopy","White spruce",NA
+"151",14.2,134,"BS","Lower canopy","White spruce",NA
+"152",14.3,65,"BS","Lower canopy","White spruce",12.5
+"153",14.4,136,"BS","Lower canopy","White spruce",16.25
+"154",14.5,134,"WS","Lower canopy","White spruce",NA
+"155",14.6,81,"BS","Lower canopy","White spruce",NA
+"156",15,47,"D","Lower canopy","White spruce",12.3
+"157",15.1,78,"BS","Lower canopy","White spruce",NA
+"158",15.2,83,"BS","Lower canopy","White spruce",NA
+"159",15.3,85,"BS","Lower canopy","White spruce",NA
+"160",15.4,75,"BS","Lower canopy","White spruce",NA
+"161",15.5,80,"BS","Lower canopy","White spruce",NA
+"162",15.6,83,"BS","Lower canopy","White spruce",NA
+"163",16,3,"recent fire","Lower canopy","White spruce",NA
+"164",16.1,118,"D","Lower canopy","White spruce",2.58
+"165",16.2,100,"D","Lower canopy","White spruce",2.16
+"166",16.3,106,"D","Lower canopy","White spruce",2.16
+"167",16.4,68,"D","Lower canopy","White spruce",2.25
+"168",16.5,138,"D","Lower canopy","White spruce",2.16
+"169",16.6,68,"D","Lower canopy","White spruce",1.75
+"170",17,16,"Early recovery","Lower canopy","White spruce",NA
+"171",17.1,176,"D","Lower canopy","White spruce",NA
+"172",17.2,69,"D","Lower canopy","White spruce",NA
+"173",17.3,118,"D","Lower canopy","White spruce",5.5
+"174",17.4,136,"D","Lower canopy","White spruce",NA
+"175",17.5,148,"D","Lower canopy","White spruce",NA
+"176",17.6,72,"D","Lower canopy","White spruce",NA
+"177",18,8,"recent fire","Lower canopy","White spruce",NA
+"178",18.1,125,"BS","Lower canopy","White spruce",NA
+"179",18.2,175,"D","Lower canopy","White spruce",NA
+"180",19,60,"D","Lower canopy","White spruce",12.5
+"181",20,14,"Early recovery","Lower canopy","White spruce",NA
+"182",20.1,75,"BS","Lower canopy","White spruce",11.6
+"183",20.2,63,"BS","Lower canopy","White spruce",NA
+"184",20.3,73,"BS","Lower canopy","White spruce",NA
+"185",21.1,73,"BS","Lower canopy","White spruce",NA
+"186",21.2,106,"BS","Lower canopy","White spruce",NA
+"187",22.1,60,"D","Lower canopy","White spruce",1.36
+"188",22.2,70,"WS","Lower canopy","White spruce",18.33
+"189",22.3,50,"D","Lower canopy","White spruce",NA
+"190",23.2,83,"D","Lower canopy","White spruce",NA
+"191",23.3,76,"D","Lower canopy","White spruce",14.16
+"192",24.1,83,"WS","Lower canopy","White spruce",36.67
+"193",24.2,142,"D","Lower canopy","White spruce",14.33
+"194",24.3,134,"WS","Lower canopy","White spruce",NA
+"195",25.1,75,"WS","Lower canopy","White spruce",NA
+"196",25.2,94,"D","Lower canopy","White spruce",13.3
+"197",25.3,140,"WS","Lower canopy","White spruce",25.3
+"198",27.1,84,"BS","Lower canopy","White spruce",3.3
+"199",27.2,66,"BS","Lower canopy","White spruce",NA
+"200",27.3,85,"BS","Lower canopy","White spruce",NA
+"201",29.1,65,"WS","Lower canopy","White spruce",NA
+"202",29.2,52,"D","Lower canopy","White spruce",14.16
+"203",29.3,52,"WS","Lower canopy","White spruce",9.16
+"204",29.4,105,"WS","Lower canopy","White spruce",NA
+"205",1,196,"D","Ground","White spruce",NA
+"206",1.1,83,"BS","Ground","White spruce",NA
+"207",1.2,93,"WS","Ground","White spruce",NA
+"208",1.3,158,"WS","Ground","White spruce",NA
+"209",2,35,"D","Ground","White spruce",NA
+"210",2.1,140,"D","Ground","White spruce",NA
+"211",2.2,170,"WS","Ground","White spruce",NA
+"212",3,185,"D","Ground","White spruce",NA
+"213",3.1,128,"D","Ground","White spruce",NA
+"214",3.2,174,"D","Ground","White spruce",NA
+"215",3.3,60,"D","Ground","White spruce",NA
+"216",4,85,"D","Ground","White spruce",NA
+"217",4.1,48,"D","Ground","White spruce",NA
+"218",4.2,60,"D","Ground","White spruce",NA
+"219",4.3,71,"D","Ground","White spruce",NA
+"220",4.4,58,"D","Ground","White spruce",NA
+"221",5,5,"recent fire","Ground","White spruce",NA
+"222",5.5,85,"BS","Ground","White spruce",NA
+"223",5.6,92,"BS","Ground","White spruce",NA
+"224",6,52,"WS","Ground","White spruce",NA
+"225",6.1,77,"D","Ground","White spruce",NA
+"226",6.2,90,"D","Ground","White spruce",NA
+"227",6.3,87,"D","Ground","White spruce",NA
+"228",6.4,89,"D","Ground","White spruce",NA
+"229",7,177,"WS","Ground","White spruce",NA
+"230",7.1,85,"D","Ground","White spruce",NA
+"231",7.2,80,"D","Ground","White spruce",NA
+"232",7.5,102,"BS","Ground","White spruce",NA
+"233",7.6,114,"BS","Ground","White spruce",NA
+"234",8,19,"Early recovery","Ground","White spruce",NA
+"235",9,76,"BS","Ground","White spruce",NA
+"236",9.2,73,"D","Ground","White spruce",NA
+"237",9.3,78,"D","Ground","White spruce",NA
+"238",9.4,122,"BS","Ground","White spruce",NA
+"239",9.5,67,"D","Ground","White spruce",NA
+"240",9.6,114,"D","Ground","White spruce",NA
+"241",10,32,"Early recovery","Ground","White spruce",NA
+"242",11,199,"BS","Ground","White spruce",NA
+"243",11.1,80,"D","Ground","White spruce",NA
+"244",11.2,99,"D","Ground","White spruce",NA
+"245",11.3,45,"D","Ground","White spruce",NA
+"246",11.4,54,"D","Ground","White spruce",NA
+"247",12,60,"D","Ground","White spruce",NA
+"248",13,76,"D","Ground","White spruce",NA
+"249",13.1,85,"D","Ground","White spruce",NA
+"250",13.2,85,"D","Ground","White spruce",NA
+"251",14,15,"Early recovery","Ground","White spruce",NA
+"252",14.1,87,"BS","Ground","White spruce",NA
+"253",14.2,134,"BS","Ground","White spruce",NA
+"254",14.3,65,"BS","Ground","White spruce",NA
+"255",14.4,136,"BS","Ground","White spruce",NA
+"256",14.5,134,"WS","Ground","White spruce",NA
+"257",14.6,81,"BS","Ground","White spruce",NA
+"258",15,47,"D","Ground","White spruce",NA
+"259",15.1,78,"BS","Ground","White spruce",NA
+"260",15.2,83,"BS","Ground","White spruce",NA
+"261",15.3,85,"BS","Ground","White spruce",NA
+"262",15.4,75,"BS","Ground","White spruce",NA
+"263",15.5,80,"BS","Ground","White spruce",NA
+"264",15.6,83,"BS","Ground","White spruce",NA
+"265",16,3,"recent fire","Ground","White spruce",NA
+"266",16.1,118,"D","Ground","White spruce",NA
+"267",16.2,100,"D","Ground","White spruce",NA
+"268",16.3,106,"D","Ground","White spruce",NA
+"269",16.4,68,"D","Ground","White spruce",NA
+"270",16.5,138,"D","Ground","White spruce",NA
+"271",16.6,68,"D","Ground","White spruce",NA
+"272",17,16,"Early recovery","Ground","White spruce",NA
+"273",17.1,176,"D","Ground","White spruce",NA
+"274",17.2,69,"D","Ground","White spruce",NA
+"275",17.3,118,"D","Ground","White spruce",NA
+"276",17.4,136,"D","Ground","White spruce",NA
+"277",17.5,148,"D","Ground","White spruce",NA
+"278",17.6,72,"D","Ground","White spruce",NA
+"279",18,8,"recent fire","Ground","White spruce",NA
+"280",18.1,125,"BS","Ground","White spruce",NA
+"281",18.2,175,"D","Ground","White spruce",NA
+"282",19,60,"D","Ground","White spruce",NA
+"283",20,14,"Early recovery","Ground","White spruce",NA
+"284",20.1,75,"BS","Ground","White spruce",NA
+"285",20.2,63,"BS","Ground","White spruce",NA
+"286",20.3,73,"BS","Ground","White spruce",NA
+"287",21.1,73,"BS","Ground","White spruce",NA
+"288",21.2,106,"BS","Ground","White spruce",NA
+"289",22.1,60,"D","Ground","White spruce",NA
+"290",22.2,70,"WS","Ground","White spruce",NA
+"291",22.3,50,"D","Ground","White spruce",NA
+"292",23.2,83,"D","Ground","White spruce",NA
+"293",23.3,76,"D","Ground","White spruce",NA
+"294",24.1,83,"WS","Ground","White spruce",NA
+"295",24.2,142,"D","Ground","White spruce",NA
+"296",24.3,134,"WS","Ground","White spruce",NA
+"297",25.1,75,"WS","Ground","White spruce",NA
+"298",25.2,94,"D","Ground","White spruce",NA
+"299",25.3,140,"WS","Ground","White spruce",NA
+"300",27.1,84,"BS","Ground","White spruce",NA
+"301",27.2,66,"BS","Ground","White spruce",NA
+"302",27.3,85,"BS","Ground","White spruce",NA
+"303",29.1,65,"WS","Ground","White spruce",NA
+"304",29.2,52,"D","Ground","White spruce",NA
+"305",29.3,52,"WS","Ground","White spruce",NA
+"306",29.4,105,"WS","Ground","White spruce",NA
+"307",1,196,"D","Upper canopy","Deciduous",5.62
+"308",1.1,83,"BS","Upper canopy","Deciduous",NA
+"309",1.2,93,"WS","Upper canopy","Deciduous",6.6
+"310",1.3,158,"WS","Upper canopy","Deciduous",3.3
+"311",2,35,"D","Upper canopy","Deciduous",84.6
+"312",2.1,140,"D","Upper canopy","Deciduous",NA
+"313",2.2,170,"WS","Upper canopy","Deciduous",6.6
+"314",3,185,"D","Upper canopy","Deciduous",22.3
+"315",3.1,128,"D","Upper canopy","Deciduous",2.91
+"316",3.2,174,"D","Upper canopy","Deciduous",NA
+"317",3.3,60,"D","Upper canopy","Deciduous",NA
+"318",4,85,"D","Upper canopy","Deciduous",43.667
+"319",4.1,48,"D","Upper canopy","Deciduous",43.16
+"320",4.2,60,"D","Upper canopy","Deciduous",71.66
+"321",4.3,71,"D","Upper canopy","Deciduous",55.83
+"322",4.4,58,"D","Upper canopy","Deciduous",43.75
+"323",5,5,"recent fire","Upper canopy","Deciduous",NA
+"324",5.5,85,"BS","Upper canopy","Deciduous",NA
+"325",5.6,92,"BS","Upper canopy","Deciduous",NA
+"326",6,52,"WS","Upper canopy","Deciduous",14.97
+"327",6.1,77,"D","Upper canopy","Deciduous",65.41
+"328",6.2,90,"D","Upper canopy","Deciduous",71.25
+"329",6.3,87,"D","Upper canopy","Deciduous",56.6
+"330",6.4,89,"D","Upper canopy","Deciduous",71.66
+"331",7,177,"WS","Upper canopy","Deciduous",8.88
+"332",7.1,85,"D","Upper canopy","Deciduous",73.3
+"333",7.2,80,"D","Upper canopy","Deciduous",48.63
+"334",7.5,102,"BS","Upper canopy","Deciduous",NA
+"335",7.6,114,"BS","Upper canopy","Deciduous",NA
+"336",8,19,"Early recovery","Upper canopy","Deciduous",16
+"337",9,76,"BS","Upper canopy","Deciduous",2.5
+"338",9.2,73,"D","Upper canopy","Deciduous",26.6
+"339",9.3,78,"D","Upper canopy","Deciduous",44.58
+"340",9.4,122,"BS","Upper canopy","Deciduous",19.16
+"341",9.5,67,"D","Upper canopy","Deciduous",25.83
+"342",9.6,114,"D","Upper canopy","Deciduous",67.5
+"343",10,32,"Early recovery","Upper canopy","Deciduous",NA
+"344",11,199,"BS","Upper canopy","Deciduous",NA
+"345",11.1,80,"D","Upper canopy","Deciduous",35.41
+"346",11.2,99,"D","Upper canopy","Deciduous",45
+"347",11.3,45,"D","Upper canopy","Deciduous",NA
+"348",11.4,54,"D","Upper canopy","Deciduous",NA
+"349",12,60,"D","Upper canopy","Deciduous",21
+"350",13,76,"D","Upper canopy","Deciduous",78.16
+"351",13.1,85,"D","Upper canopy","Deciduous",83.75
+"352",13.2,85,"D","Upper canopy","Deciduous",86.67
+"353",14,15,"Early recovery","Upper canopy","Deciduous",18
+"354",14.1,87,"BS","Upper canopy","Deciduous",NA
+"355",14.2,134,"BS","Upper canopy","Deciduous",2.5
+"356",14.3,65,"BS","Upper canopy","Deciduous",8
+"357",14.4,136,"BS","Upper canopy","Deciduous",11.6
+"358",14.5,134,"WS","Upper canopy","Deciduous",14
+"359",14.6,81,"BS","Upper canopy","Deciduous",14.58
+"360",15,47,"D","Upper canopy","Deciduous",12
+"361",15.1,78,"BS","Upper canopy","Deciduous",NA
+"362",15.2,83,"BS","Upper canopy","Deciduous",NA
+"363",15.3,85,"BS","Upper canopy","Deciduous",NA
+"364",15.4,75,"BS","Upper canopy","Deciduous",NA
+"365",15.5,80,"BS","Upper canopy","Deciduous",NA
+"366",15.6,83,"BS","Upper canopy","Deciduous",NA
+"367",16,3,"recent fire","Upper canopy","Deciduous",NA
+"368",16.1,118,"D","Upper canopy","Deciduous",16.45
+"369",16.2,100,"D","Upper canopy","Deciduous",11.41
+"370",16.3,106,"D","Upper canopy","Deciduous",15.25
+"371",16.4,68,"D","Upper canopy","Deciduous",19.58
+"372",16.5,138,"D","Upper canopy","Deciduous",17.667
+"373",16.6,68,"D","Upper canopy","Deciduous",1.66
+"374",17,16,"Early recovery","Upper canopy","Deciduous",NA
+"375",17.1,176,"D","Upper canopy","Deciduous",36.25
+"376",17.2,69,"D","Upper canopy","Deciduous",45.5
+"377",17.3,118,"D","Upper canopy","Deciduous",39.167
+"378",17.4,136,"D","Upper canopy","Deciduous",37.16
+"379",17.5,148,"D","Upper canopy","Deciduous",32.9
+"380",17.6,72,"D","Upper canopy","Deciduous",38.33
+"381",18,8,"recent fire","Upper canopy","Deciduous",NA
+"382",18.1,125,"BS","Upper canopy","Deciduous",NA
+"383",18.2,175,"D","Upper canopy","Deciduous",NA
+"384",19,60,"D","Upper canopy","Deciduous",6
+"385",20,14,"Early recovery","Upper canopy","Deciduous",NA
+"386",20.1,75,"BS","Upper canopy","Deciduous",NA
+"387",20.2,63,"BS","Upper canopy","Deciduous",NA
+"388",20.3,73,"BS","Upper canopy","Deciduous",NA
+"389",21.1,73,"BS","Upper canopy","Deciduous",NA
+"390",21.2,106,"BS","Upper canopy","Deciduous",4.3
+"391",22.1,60,"D","Upper canopy","Deciduous",43.3
+"392",22.2,70,"WS","Upper canopy","Deciduous",5
+"393",22.3,50,"D","Upper canopy","Deciduous",72
+"394",23.2,83,"D","Upper canopy","Deciduous",25
+"395",23.3,76,"D","Upper canopy","Deciduous",31.6
+"396",24.1,83,"WS","Upper canopy","Deciduous",4.3
+"397",24.2,142,"D","Upper canopy","Deciduous",47.5
+"398",24.3,134,"WS","Upper canopy","Deciduous",14.16
+"399",25.1,75,"WS","Upper canopy","Deciduous",15
+"400",25.2,94,"D","Upper canopy","Deciduous",61.6
+"401",25.3,140,"WS","Upper canopy","Deciduous",NA
+"402",27.1,84,"BS","Upper canopy","Deciduous",17.5
+"403",27.2,66,"BS","Upper canopy","Deciduous",7.5
+"404",27.3,85,"BS","Upper canopy","Deciduous",22.5
+"405",29.1,65,"WS","Upper canopy","Deciduous",NA
+"406",29.2,52,"D","Upper canopy","Deciduous",38.3
+"407",29.3,52,"WS","Upper canopy","Deciduous",25.83
+"408",29.4,105,"WS","Upper canopy","Deciduous",17.5
+"409",1,196,"D","Lower canopy","Deciduous",31.74
+"410",1.1,83,"BS","Lower canopy","Deciduous",5.83
+"411",1.2,93,"WS","Lower canopy","Deciduous",48.2
+"412",1.3,158,"WS","Lower canopy","Deciduous",22
+"413",2,35,"D","Lower canopy","Deciduous",13.2
+"414",2.1,140,"D","Lower canopy","Deciduous",25.83
+"415",2.2,170,"WS","Lower canopy","Deciduous",NA
+"416",3,185,"D","Lower canopy","Deciduous",33.5
+"417",3.1,128,"D","Lower canopy","Deciduous",55.16
+"418",3.2,174,"D","Lower canopy","Deciduous",41.49
+"419",3.3,60,"D","Lower canopy","Deciduous",35.32
+"420",4,85,"D","Lower canopy","Deciduous",8.83
+"421",4.1,48,"D","Lower canopy","Deciduous",35
+"422",4.2,60,"D","Lower canopy","Deciduous",11.5
+"423",4.3,71,"D","Lower canopy","Deciduous",38
+"424",4.4,58,"D","Lower canopy","Deciduous",NA
+"425",5,5,"recent fire","Lower canopy","Deciduous",43.5
+"426",5.5,85,"BS","Lower canopy","Deciduous",5.62
+"427",5.6,92,"BS","Lower canopy","Deciduous",1.4
+"428",6,52,"WS","Lower canopy","Deciduous",28.33
+"429",6.1,77,"D","Lower canopy","Deciduous",27
+"430",6.2,90,"D","Lower canopy","Deciduous",13.25
+"431",6.3,87,"D","Lower canopy","Deciduous",23
+"432",6.4,89,"D","Lower canopy","Deciduous",14.9
+"433",7,177,"WS","Lower canopy","Deciduous",NA
+"434",7.1,85,"D","Lower canopy","Deciduous",NA
+"435",7.2,80,"D","Lower canopy","Deciduous",14.58
+"436",7.5,102,"BS","Lower canopy","Deciduous",NA
+"437",7.6,114,"BS","Lower canopy","Deciduous",NA
+"438",8,19,"Early recovery","Lower canopy","Deciduous",NA
+"439",9,76,"BS","Lower canopy","Deciduous",1.66
+"440",9.2,73,"D","Lower canopy","Deciduous",38.58
+"441",9.3,78,"D","Lower canopy","Deciduous",18
+"442",9.4,122,"BS","Lower canopy","Deciduous",16.2
+"443",9.5,67,"D","Lower canopy","Deciduous",28
+"444",9.6,114,"D","Lower canopy","Deciduous",26.6
+"445",10,32,"Early recovery","Lower canopy","Deciduous",19.1
+"446",11,199,"BS","Lower canopy","Deciduous",3.36
+"447",11.1,80,"D","Lower canopy","Deciduous",26.25
+"448",11.2,99,"D","Lower canopy","Deciduous",15.75
+"449",11.3,45,"D","Lower canopy","Deciduous",31.16
+"450",11.4,54,"D","Lower canopy","Deciduous",57.83
+"451",12,60,"D","Lower canopy","Deciduous",18.2
+"452",13,76,"D","Lower canopy","Deciduous",17.33
+"453",13.1,85,"D","Lower canopy","Deciduous",11.83
+"454",13.2,85,"D","Lower canopy","Deciduous",4.9
+"455",14,15,"Early recovery","Lower canopy","Deciduous",19.46
+"456",14.1,87,"BS","Lower canopy","Deciduous",2.2
+"457",14.2,134,"BS","Lower canopy","Deciduous",2.1
+"458",14.3,65,"BS","Lower canopy","Deciduous",26.66
+"459",14.4,136,"BS","Lower canopy","Deciduous",2
+"460",14.5,134,"WS","Lower canopy","Deciduous",5
+"461",14.6,81,"BS","Lower canopy","Deciduous",1.3
+"462",15,47,"D","Lower canopy","Deciduous",16.5
+"463",15.1,78,"BS","Lower canopy","Deciduous",7.1
+"464",15.2,83,"BS","Lower canopy","Deciduous",3.15
+"465",15.3,85,"BS","Lower canopy","Deciduous",6
+"466",15.4,75,"BS","Lower canopy","Deciduous",1.5
+"467",15.5,80,"BS","Lower canopy","Deciduous",7
+"468",15.6,83,"BS","Lower canopy","Deciduous",21
+"469",16,3,"recent fire","Lower canopy","Deciduous",1.63
+"470",16.1,118,"D","Lower canopy","Deciduous",38.1599999999999
+"471",16.2,100,"D","Lower canopy","Deciduous",54.58
+"472",16.3,106,"D","Lower canopy","Deciduous",18
+"473",16.4,68,"D","Lower canopy","Deciduous",NA
+"474",16.5,138,"D","Lower canopy","Deciduous",11
+"475",16.6,68,"D","Lower canopy","Deciduous",61.4
+"476",17,16,"Early recovery","Lower canopy","Deciduous",11.26
+"477",17.1,176,"D","Lower canopy","Deciduous",64
+"478",17.2,69,"D","Lower canopy","Deciduous",23
+"479",17.3,118,"D","Lower canopy","Deciduous",29
+"480",17.4,136,"D","Lower canopy","Deciduous",15.5
+"481",17.5,148,"D","Lower canopy","Deciduous",23.3
+"482",17.6,72,"D","Lower canopy","Deciduous",47.5
+"483",18,8,"recent fire","Lower canopy","Deciduous",21.6
+"484",18.1,125,"BS","Lower canopy","Deciduous",NA
+"485",18.2,175,"D","Lower canopy","Deciduous",32.6
+"486",19,60,"D","Lower canopy","Deciduous",13.67
+"487",20,14,"Early recovery","Lower canopy","Deciduous",13
+"488",20.1,75,"BS","Lower canopy","Deciduous",12.83
+"489",20.2,63,"BS","Lower canopy","Deciduous",7.5
+"490",20.3,73,"BS","Lower canopy","Deciduous",9.99
+"491",21.1,73,"BS","Lower canopy","Deciduous",4.14
+"492",21.2,106,"BS","Lower canopy","Deciduous",NA
+"493",22.1,60,"D","Lower canopy","Deciduous",33.1599999999999
+"494",22.2,70,"WS","Lower canopy","Deciduous",26.66
+"495",22.3,50,"D","Lower canopy","Deciduous",7.16
+"496",23.2,83,"D","Lower canopy","Deciduous",15
+"497",23.3,76,"D","Lower canopy","Deciduous",39.1599999999999
+"498",24.1,83,"WS","Lower canopy","Deciduous",17.49
+"499",24.2,142,"D","Lower canopy","Deciduous",25
+"500",24.3,134,"WS","Lower canopy","Deciduous",15.83
+"501",25.1,75,"WS","Lower canopy","Deciduous",14.99
+"502",25.2,94,"D","Lower canopy","Deciduous",NA
+"503",25.3,140,"WS","Lower canopy","Deciduous",NA
+"504",27.1,84,"BS","Lower canopy","Deciduous",15
+"505",27.2,66,"BS","Lower canopy","Deciduous",11
+"506",27.3,85,"BS","Lower canopy","Deciduous",19.26
+"507",29.1,65,"WS","Lower canopy","Deciduous",2
+"508",29.2,52,"D","Lower canopy","Deciduous",48.36
+"509",29.3,52,"WS","Lower canopy","Deciduous",14.3
+"510",29.4,105,"WS","Lower canopy","Deciduous",17.5
+"511",1,196,"D","Ground","Deciduous",NA
+"512",1.1,83,"BS","Ground","Deciduous",NA
+"513",1.2,93,"WS","Ground","Deciduous",NA
+"514",1.3,158,"WS","Ground","Deciduous",NA
+"515",2,35,"D","Ground","Deciduous",NA
+"516",2.1,140,"D","Ground","Deciduous",NA
+"517",2.2,170,"WS","Ground","Deciduous",NA
+"518",3,185,"D","Ground","Deciduous",NA
+"519",3.1,128,"D","Ground","Deciduous",NA
+"520",3.2,174,"D","Ground","Deciduous",NA
+"521",3.3,60,"D","Ground","Deciduous",NA
+"522",4,85,"D","Ground","Deciduous",NA
+"523",4.1,48,"D","Ground","Deciduous",NA
+"524",4.2,60,"D","Ground","Deciduous",NA
+"525",4.3,71,"D","Ground","Deciduous",NA
+"526",4.4,58,"D","Ground","Deciduous",NA
+"527",5,5,"recent fire","Ground","Deciduous",NA
+"528",5.5,85,"BS","Ground","Deciduous",NA
+"529",5.6,92,"BS","Ground","Deciduous",NA
+"530",6,52,"WS","Ground","Deciduous",NA
+"531",6.1,77,"D","Ground","Deciduous",NA
+"532",6.2,90,"D","Ground","Deciduous",NA
+"533",6.3,87,"D","Ground","Deciduous",NA
+"534",6.4,89,"D","Ground","Deciduous",NA
+"535",7,177,"WS","Ground","Deciduous",NA
+"536",7.1,85,"D","Ground","Deciduous",NA
+"537",7.2,80,"D","Ground","Deciduous",NA
+"538",7.5,102,"BS","Ground","Deciduous",NA
+"539",7.6,114,"BS","Ground","Deciduous",NA
+"540",8,19,"Early recovery","Ground","Deciduous",NA
+"541",9,76,"BS","Ground","Deciduous",NA
+"542",9.2,73,"D","Ground","Deciduous",NA
+"543",9.3,78,"D","Ground","Deciduous",NA
+"544",9.4,122,"BS","Ground","Deciduous",NA
+"545",9.5,67,"D","Ground","Deciduous",NA
+"546",9.6,114,"D","Ground","Deciduous",NA
+"547",10,32,"Early recovery","Ground","Deciduous",NA
+"548",11,199,"BS","Ground","Deciduous",NA
+"549",11.1,80,"D","Ground","Deciduous",NA
+"550",11.2,99,"D","Ground","Deciduous",NA
+"551",11.3,45,"D","Ground","Deciduous",NA
+"552",11.4,54,"D","Ground","Deciduous",NA
+"553",12,60,"D","Ground","Deciduous",NA
+"554",13,76,"D","Ground","Deciduous",NA
+"555",13.1,85,"D","Ground","Deciduous",NA
+"556",13.2,85,"D","Ground","Deciduous",NA
+"557",14,15,"Early recovery","Ground","Deciduous",NA
+"558",14.1,87,"BS","Ground","Deciduous",NA
+"559",14.2,134,"BS","Ground","Deciduous",NA
+"560",14.3,65,"BS","Ground","Deciduous",NA
+"561",14.4,136,"BS","Ground","Deciduous",NA
+"562",14.5,134,"WS","Ground","Deciduous",NA
+"563",14.6,81,"BS","Ground","Deciduous",NA
+"564",15,47,"D","Ground","Deciduous",NA
+"565",15.1,78,"BS","Ground","Deciduous",NA
+"566",15.2,83,"BS","Ground","Deciduous",NA
+"567",15.3,85,"BS","Ground","Deciduous",NA
+"568",15.4,75,"BS","Ground","Deciduous",NA
+"569",15.5,80,"BS","Ground","Deciduous",NA
+"570",15.6,83,"BS","Ground","Deciduous",NA
+"571",16,3,"recent fire","Ground","Deciduous",NA
+"572",16.1,118,"D","Ground","Deciduous",NA
+"573",16.2,100,"D","Ground","Deciduous",NA
+"574",16.3,106,"D","Ground","Deciduous",NA
+"575",16.4,68,"D","Ground","Deciduous",NA
+"576",16.5,138,"D","Ground","Deciduous",NA
+"577",16.6,68,"D","Ground","Deciduous",NA
+"578",17,16,"Early recovery","Ground","Deciduous",NA
+"579",17.1,176,"D","Ground","Deciduous",NA
+"580",17.2,69,"D","Ground","Deciduous",NA
+"581",17.3,118,"D","Ground","Deciduous",NA
+"582",17.4,136,"D","Ground","Deciduous",NA
+"583",17.5,148,"D","Ground","Deciduous",NA
+"584",17.6,72,"D","Ground","Deciduous",NA
+"585",18,8,"recent fire","Ground","Deciduous",NA
+"586",18.1,125,"BS","Ground","Deciduous",NA
+"587",18.2,175,"D","Ground","Deciduous",NA
+"588",19,60,"D","Ground","Deciduous",NA
+"589",20,14,"Early recovery","Ground","Deciduous",NA
+"590",20.1,75,"BS","Ground","Deciduous",NA
+"591",20.2,63,"BS","Ground","Deciduous",NA
+"592",20.3,73,"BS","Ground","Deciduous",NA
+"593",21.1,73,"BS","Ground","Deciduous",NA
+"594",21.2,106,"BS","Ground","Deciduous",NA
+"595",22.1,60,"D","Ground","Deciduous",NA
+"596",22.2,70,"WS","Ground","Deciduous",NA
+"597",22.3,50,"D","Ground","Deciduous",NA
+"598",23.2,83,"D","Ground","Deciduous",NA
+"599",23.3,76,"D","Ground","Deciduous",NA
+"600",24.1,83,"WS","Ground","Deciduous",NA
+"601",24.2,142,"D","Ground","Deciduous",NA
+"602",24.3,134,"WS","Ground","Deciduous",NA
+"603",25.1,75,"WS","Ground","Deciduous",NA
+"604",25.2,94,"D","Ground","Deciduous",NA
+"605",25.3,140,"WS","Ground","Deciduous",NA
+"606",27.1,84,"BS","Ground","Deciduous",NA
+"607",27.2,66,"BS","Ground","Deciduous",NA
+"608",27.3,85,"BS","Ground","Deciduous",NA
+"609",29.1,65,"WS","Ground","Deciduous",NA
+"610",29.2,52,"D","Ground","Deciduous",NA
+"611",29.3,52,"WS","Ground","Deciduous",NA
+"612",29.4,105,"WS","Ground","Deciduous",NA
+"613",1,196,"D","Upper canopy","Black spruce",NA
+"614",1.1,83,"BS","Upper canopy","Black spruce",3.3
+"615",1.2,93,"WS","Upper canopy","Black spruce",NA
+"616",1.3,158,"WS","Upper canopy","Black spruce",NA
+"617",2,35,"D","Upper canopy","Black spruce",NA
+"618",2.1,140,"D","Upper canopy","Black spruce",17.5
+"619",2.2,170,"WS","Upper canopy","Black spruce",NA
+"620",3,185,"D","Upper canopy","Black spruce",3.6
+"621",3.1,128,"D","Upper canopy","Black spruce",9.16
+"622",3.2,174,"D","Upper canopy","Black spruce",NA
+"623",3.3,60,"D","Upper canopy","Black spruce",15.91
+"624",4,85,"D","Upper canopy","Black spruce",NA
+"625",4.1,48,"D","Upper canopy","Black spruce",1.3
+"626",4.2,60,"D","Upper canopy","Black spruce",4.16
+"627",4.3,71,"D","Upper canopy","Black spruce",NA
+"628",4.4,58,"D","Upper canopy","Black spruce",8.75
+"629",5,5,"recent fire","Upper canopy","Black spruce",3
+"630",5.5,85,"BS","Upper canopy","Black spruce",26.5
+"631",5.6,92,"BS","Upper canopy","Black spruce",NA
+"632",6,52,"WS","Upper canopy","Black spruce",NA
+"633",6.1,77,"D","Upper canopy","Black spruce",NA
+"634",6.2,90,"D","Upper canopy","Black spruce",NA
+"635",6.3,87,"D","Upper canopy","Black spruce",NA
+"636",6.4,89,"D","Upper canopy","Black spruce",NA
+"637",7,177,"WS","Upper canopy","Black spruce",NA
+"638",7.1,85,"D","Upper canopy","Black spruce",NA
+"639",7.2,80,"D","Upper canopy","Black spruce",NA
+"640",7.5,102,"BS","Upper canopy","Black spruce",8.75
+"641",7.6,114,"BS","Upper canopy","Black spruce",17.167
+"642",8,19,"Early recovery","Upper canopy","Black spruce",NA
+"643",9,76,"BS","Upper canopy","Black spruce",NA
+"644",9.2,73,"D","Upper canopy","Black spruce",NA
+"645",9.3,78,"D","Upper canopy","Black spruce",NA
+"646",9.4,122,"BS","Upper canopy","Black spruce",NA
+"647",9.5,67,"D","Upper canopy","Black spruce",NA
+"648",9.6,114,"D","Upper canopy","Black spruce",NA
+"649",10,32,"Early recovery","Upper canopy","Black spruce",NA
+"650",11,199,"BS","Upper canopy","Black spruce",17.16
+"651",11.1,80,"D","Upper canopy","Black spruce",NA
+"652",11.2,99,"D","Upper canopy","Black spruce",NA
+"653",11.3,45,"D","Upper canopy","Black spruce",1.25
+"654",11.4,54,"D","Upper canopy","Black spruce",NA
+"655",12,60,"D","Upper canopy","Black spruce",15
+"656",13,76,"D","Upper canopy","Black spruce",NA
+"657",13.1,85,"D","Upper canopy","Black spruce",NA
+"658",13.2,85,"D","Upper canopy","Black spruce",NA
+"659",14,15,"Early recovery","Upper canopy","Black spruce",NA
+"660",14.1,87,"BS","Upper canopy","Black spruce",44.16
+"661",14.2,134,"BS","Upper canopy","Black spruce",33.75
+"662",14.3,65,"BS","Upper canopy","Black spruce",37.16
+"663",14.4,136,"BS","Upper canopy","Black spruce",18.6
+"664",14.5,134,"WS","Upper canopy","Black spruce",NA
+"665",14.6,81,"BS","Upper canopy","Black spruce",56.91
+"666",15,47,"D","Upper canopy","Black spruce",2.3
+"667",15.1,78,"BS","Upper canopy","Black spruce",NA
+"668",15.2,83,"BS","Upper canopy","Black spruce",15.58
+"669",15.3,85,"BS","Upper canopy","Black spruce",NA
+"670",15.4,75,"BS","Upper canopy","Black spruce",43.3
+"671",15.5,80,"BS","Upper canopy","Black spruce",NA
+"672",15.6,83,"BS","Upper canopy","Black spruce",29.1667
+"673",16,3,"recent fire","Upper canopy","Black spruce",1.6
+"674",16.1,118,"D","Upper canopy","Black spruce",NA
+"675",16.2,100,"D","Upper canopy","Black spruce",NA
+"676",16.3,106,"D","Upper canopy","Black spruce",NA
+"677",16.4,68,"D","Upper canopy","Black spruce",NA
+"678",16.5,138,"D","Upper canopy","Black spruce",NA
+"679",16.6,68,"D","Upper canopy","Black spruce",NA
+"680",17,16,"Early recovery","Upper canopy","Black spruce",NA
+"681",17.1,176,"D","Upper canopy","Black spruce",NA
+"682",17.2,69,"D","Upper canopy","Black spruce",NA
+"683",17.3,118,"D","Upper canopy","Black spruce",NA
+"684",17.4,136,"D","Upper canopy","Black spruce",NA
+"685",17.5,148,"D","Upper canopy","Black spruce",NA
+"686",17.6,72,"D","Upper canopy","Black spruce",NA
+"687",18,8,"recent fire","Upper canopy","Black spruce",1.2
+"688",18.1,125,"BS","Upper canopy","Black spruce",2
+"689",18.2,175,"D","Upper canopy","Black spruce",2.16
+"690",19,60,"D","Upper canopy","Black spruce",NA
+"691",20,14,"Early recovery","Upper canopy","Black spruce",NA
+"692",20.1,75,"BS","Upper canopy","Black spruce",15.83
+"693",20.2,63,"BS","Upper canopy","Black spruce",NA
+"694",20.3,73,"BS","Upper canopy","Black spruce",1.6
+"695",21.1,73,"BS","Upper canopy","Black spruce",2
+"696",21.2,106,"BS","Upper canopy","Black spruce",NA
+"697",22.1,60,"D","Upper canopy","Black spruce",NA
+"698",22.2,70,"WS","Upper canopy","Black spruce",NA
+"699",22.3,50,"D","Upper canopy","Black spruce",NA
+"700",23.2,83,"D","Upper canopy","Black spruce",NA
+"701",23.3,76,"D","Upper canopy","Black spruce",NA
+"702",24.1,83,"WS","Upper canopy","Black spruce",NA
+"703",24.2,142,"D","Upper canopy","Black spruce",NA
+"704",24.3,134,"WS","Upper canopy","Black spruce",NA
+"705",25.1,75,"WS","Upper canopy","Black spruce",NA
+"706",25.2,94,"D","Upper canopy","Black spruce",NA
+"707",25.3,140,"WS","Upper canopy","Black spruce",NA
+"708",27.1,84,"BS","Upper canopy","Black spruce",43.3
+"709",27.2,66,"BS","Upper canopy","Black spruce",33.3
+"710",27.3,85,"BS","Upper canopy","Black spruce",25.83
+"711",29.1,65,"WS","Upper canopy","Black spruce",NA
+"712",29.2,52,"D","Upper canopy","Black spruce",NA
+"713",29.3,52,"WS","Upper canopy","Black spruce",NA
+"714",29.4,105,"WS","Upper canopy","Black spruce",NA
+"715",1,196,"D","Lower canopy","Black spruce",NA
+"716",1.1,83,"BS","Lower canopy","Black spruce",53.3
+"717",1.2,93,"WS","Lower canopy","Black spruce",NA
+"718",1.3,158,"WS","Lower canopy","Black spruce",NA
+"719",2,35,"D","Lower canopy","Black spruce",NA
+"720",2.1,140,"D","Lower canopy","Black spruce",NA
+"721",2.2,170,"WS","Lower canopy","Black spruce",NA
+"722",3,185,"D","Lower canopy","Black spruce",NA
+"723",3.1,128,"D","Lower canopy","Black spruce",26.5
+"724",3.2,174,"D","Lower canopy","Black spruce",24.25
+"725",3.3,60,"D","Lower canopy","Black spruce",38.33
+"726",4,85,"D","Lower canopy","Black spruce",NA
+"727",4.1,48,"D","Lower canopy","Black spruce",NA
+"728",4.2,60,"D","Lower canopy","Black spruce",14
+"729",4.3,71,"D","Lower canopy","Black spruce",15.5
+"730",4.4,58,"D","Lower canopy","Black spruce",25.5
+"731",5,5,"recent fire","Lower canopy","Black spruce",3
+"732",5.5,85,"BS","Lower canopy","Black spruce",27.5
+"733",5.6,92,"BS","Lower canopy","Black spruce",31
+"734",6,52,"WS","Lower canopy","Black spruce",NA
+"735",6.1,77,"D","Lower canopy","Black spruce",NA
+"736",6.2,90,"D","Lower canopy","Black spruce",NA
+"737",6.3,87,"D","Lower canopy","Black spruce",11.66
+"738",6.4,89,"D","Lower canopy","Black spruce",NA
+"739",7,177,"WS","Lower canopy","Black spruce",NA
+"740",7.1,85,"D","Lower canopy","Black spruce",NA
+"741",7.2,80,"D","Lower canopy","Black spruce",19.16
+"742",7.5,102,"BS","Lower canopy","Black spruce",48.75
+"743",7.6,114,"BS","Lower canopy","Black spruce",NA
+"744",8,19,"Early recovery","Lower canopy","Black spruce",NA
+"745",9,76,"BS","Lower canopy","Black spruce",22.67
+"746",9.2,73,"D","Lower canopy","Black spruce",27.18
+"747",9.3,78,"D","Lower canopy","Black spruce",9
+"748",9.4,122,"BS","Lower canopy","Black spruce",34.25
+"749",9.5,67,"D","Lower canopy","Black spruce",5.4
+"750",9.6,114,"D","Lower canopy","Black spruce",NA
+"751",10,32,"Early recovery","Lower canopy","Black spruce",NA
+"752",11,199,"BS","Lower canopy","Black spruce",35
+"753",11.1,80,"D","Lower canopy","Black spruce",27.91
+"754",11.2,99,"D","Lower canopy","Black spruce",NA
+"755",11.3,45,"D","Lower canopy","Black spruce",15.91
+"756",11.4,54,"D","Lower canopy","Black spruce",6.25
+"757",12,60,"D","Lower canopy","Black spruce",15.161
+"758",13,76,"D","Lower canopy","Black spruce",NA
+"759",13.1,85,"D","Lower canopy","Black spruce",NA
+"760",13.2,85,"D","Lower canopy","Black spruce",NA
+"761",14,15,"Early recovery","Lower canopy","Black spruce",NA
+"762",14.1,87,"BS","Lower canopy","Black spruce",25
+"763",14.2,134,"BS","Lower canopy","Black spruce",24.16
+"764",14.3,65,"BS","Lower canopy","Black spruce",NA
+"765",14.4,136,"BS","Lower canopy","Black spruce",15.41
+"766",14.5,134,"WS","Lower canopy","Black spruce",4
+"767",14.6,81,"BS","Lower canopy","Black spruce",NA
+"768",15,47,"D","Lower canopy","Black spruce",2.16
+"769",15.1,78,"BS","Lower canopy","Black spruce",25
+"770",15.2,83,"BS","Lower canopy","Black spruce",NA
+"771",15.3,85,"BS","Lower canopy","Black spruce",16.25
+"772",15.4,75,"BS","Lower canopy","Black spruce",11.83
+"773",15.5,80,"BS","Lower canopy","Black spruce",17.5
+"774",15.6,83,"BS","Lower canopy","Black spruce",16.41
+"775",16,3,"recent fire","Lower canopy","Black spruce",1.63
+"776",16.1,118,"D","Lower canopy","Black spruce",NA
+"777",16.2,100,"D","Lower canopy","Black spruce",NA
+"778",16.3,106,"D","Lower canopy","Black spruce",NA
+"779",16.4,68,"D","Lower canopy","Black spruce",NA
+"780",16.5,138,"D","Lower canopy","Black spruce",NA
+"781",16.6,68,"D","Lower canopy","Black spruce",2
+"782",17,16,"Early recovery","Lower canopy","Black spruce",NA
+"783",17.1,176,"D","Lower canopy","Black spruce",NA
+"784",17.2,69,"D","Lower canopy","Black spruce",NA
+"785",17.3,118,"D","Lower canopy","Black spruce",NA
+"786",17.4,136,"D","Lower canopy","Black spruce",NA
+"787",17.5,148,"D","Lower canopy","Black spruce",NA
+"788",17.6,72,"D","Lower canopy","Black spruce",NA
+"789",18,8,"recent fire","Lower canopy","Black spruce",1.2
+"790",18.1,125,"BS","Lower canopy","Black spruce",28.33
+"791",18.2,175,"D","Lower canopy","Black spruce",NA
+"792",19,60,"D","Lower canopy","Black spruce",NA
+"793",20,14,"Early recovery","Lower canopy","Black spruce",NA
+"794",20.1,75,"BS","Lower canopy","Black spruce",25
+"795",20.2,63,"BS","Lower canopy","Black spruce",51.66
+"796",20.3,73,"BS","Lower canopy","Black spruce",48.3
+"797",21.1,73,"BS","Lower canopy","Black spruce",39.1599999999999
+"798",21.2,106,"BS","Lower canopy","Black spruce",58.33
+"799",22.1,60,"D","Lower canopy","Black spruce",NA
+"800",22.2,70,"WS","Lower canopy","Black spruce",NA
+"801",22.3,50,"D","Lower canopy","Black spruce",NA
+"802",23.2,83,"D","Lower canopy","Black spruce",NA
+"803",23.3,76,"D","Lower canopy","Black spruce",NA
+"804",24.1,83,"WS","Lower canopy","Black spruce",NA
+"805",24.2,142,"D","Lower canopy","Black spruce",NA
+"806",24.3,134,"WS","Lower canopy","Black spruce",NA
+"807",25.1,75,"WS","Lower canopy","Black spruce",NA
+"808",25.2,94,"D","Lower canopy","Black spruce",NA
+"809",25.3,140,"WS","Lower canopy","Black spruce",NA
+"810",27.1,84,"BS","Lower canopy","Black spruce",11.6
+"811",27.2,66,"BS","Lower canopy","Black spruce",39.1599999999999
+"812",27.3,85,"BS","Lower canopy","Black spruce",29.16
+"813",29.1,65,"WS","Lower canopy","Black spruce",NA
+"814",29.2,52,"D","Lower canopy","Black spruce",NA
+"815",29.3,52,"WS","Lower canopy","Black spruce",NA
+"816",29.4,105,"WS","Lower canopy","Black spruce",NA
+"817",1,196,"D","Ground","Black spruce",NA
+"818",1.1,83,"BS","Ground","Black spruce",NA
+"819",1.2,93,"WS","Ground","Black spruce",NA
+"820",1.3,158,"WS","Ground","Black spruce",NA
+"821",2,35,"D","Ground","Black spruce",NA
+"822",2.1,140,"D","Ground","Black spruce",NA
+"823",2.2,170,"WS","Ground","Black spruce",NA
+"824",3,185,"D","Ground","Black spruce",NA
+"825",3.1,128,"D","Ground","Black spruce",NA
+"826",3.2,174,"D","Ground","Black spruce",NA
+"827",3.3,60,"D","Ground","Black spruce",NA
+"828",4,85,"D","Ground","Black spruce",NA
+"829",4.1,48,"D","Ground","Black spruce",NA
+"830",4.2,60,"D","Ground","Black spruce",NA
+"831",4.3,71,"D","Ground","Black spruce",NA
+"832",4.4,58,"D","Ground","Black spruce",NA
+"833",5,5,"recent fire","Ground","Black spruce",NA
+"834",5.5,85,"BS","Ground","Black spruce",NA
+"835",5.6,92,"BS","Ground","Black spruce",NA
+"836",6,52,"WS","Ground","Black spruce",NA
+"837",6.1,77,"D","Ground","Black spruce",NA
+"838",6.2,90,"D","Ground","Black spruce",NA
+"839",6.3,87,"D","Ground","Black spruce",NA
+"840",6.4,89,"D","Ground","Black spruce",NA
+"841",7,177,"WS","Ground","Black spruce",NA
+"842",7.1,85,"D","Ground","Black spruce",NA
+"843",7.2,80,"D","Ground","Black spruce",NA
+"844",7.5,102,"BS","Ground","Black spruce",NA
+"845",7.6,114,"BS","Ground","Black spruce",NA
+"846",8,19,"Early recovery","Ground","Black spruce",NA
+"847",9,76,"BS","Ground","Black spruce",NA
+"848",9.2,73,"D","Ground","Black spruce",NA
+"849",9.3,78,"D","Ground","Black spruce",NA
+"850",9.4,122,"BS","Ground","Black spruce",NA
+"851",9.5,67,"D","Ground","Black spruce",NA
+"852",9.6,114,"D","Ground","Black spruce",NA
+"853",10,32,"Early recovery","Ground","Black spruce",NA
+"854",11,199,"BS","Ground","Black spruce",NA
+"855",11.1,80,"D","Ground","Black spruce",NA
+"856",11.2,99,"D","Ground","Black spruce",NA
+"857",11.3,45,"D","Ground","Black spruce",NA
+"858",11.4,54,"D","Ground","Black spruce",NA
+"859",12,60,"D","Ground","Black spruce",NA
+"860",13,76,"D","Ground","Black spruce",NA
+"861",13.1,85,"D","Ground","Black spruce",NA
+"862",13.2,85,"D","Ground","Black spruce",NA
+"863",14,15,"Early recovery","Ground","Black spruce",NA
+"864",14.1,87,"BS","Ground","Black spruce",NA
+"865",14.2,134,"BS","Ground","Black spruce",NA
+"866",14.3,65,"BS","Ground","Black spruce",NA
+"867",14.4,136,"BS","Ground","Black spruce",NA
+"868",14.5,134,"WS","Ground","Black spruce",NA
+"869",14.6,81,"BS","Ground","Black spruce",NA
+"870",15,47,"D","Ground","Black spruce",NA
+"871",15.1,78,"BS","Ground","Black spruce",NA
+"872",15.2,83,"BS","Ground","Black spruce",NA
+"873",15.3,85,"BS","Ground","Black spruce",NA
+"874",15.4,75,"BS","Ground","Black spruce",NA
+"875",15.5,80,"BS","Ground","Black spruce",NA
+"876",15.6,83,"BS","Ground","Black spruce",NA
+"877",16,3,"recent fire","Ground","Black spruce",NA
+"878",16.1,118,"D","Ground","Black spruce",NA
+"879",16.2,100,"D","Ground","Black spruce",NA
+"880",16.3,106,"D","Ground","Black spruce",NA
+"881",16.4,68,"D","Ground","Black spruce",NA
+"882",16.5,138,"D","Ground","Black spruce",NA
+"883",16.6,68,"D","Ground","Black spruce",NA
+"884",17,16,"Early recovery","Ground","Black spruce",NA
+"885",17.1,176,"D","Ground","Black spruce",NA
+"886",17.2,69,"D","Ground","Black spruce",NA
+"887",17.3,118,"D","Ground","Black spruce",NA
+"888",17.4,136,"D","Ground","Black spruce",NA
+"889",17.5,148,"D","Ground","Black spruce",NA
+"890",17.6,72,"D","Ground","Black spruce",NA
+"891",18,8,"recent fire","Ground","Black spruce",NA
+"892",18.1,125,"BS","Ground","Black spruce",NA
+"893",18.2,175,"D","Ground","Black spruce",NA
+"894",19,60,"D","Ground","Black spruce",NA
+"895",20,14,"Early recovery","Ground","Black spruce",NA
+"896",20.1,75,"BS","Ground","Black spruce",NA
+"897",20.2,63,"BS","Ground","Black spruce",NA
+"898",20.3,73,"BS","Ground","Black spruce",NA
+"899",21.1,73,"BS","Ground","Black spruce",NA
+"900",21.2,106,"BS","Ground","Black spruce",NA
+"901",22.1,60,"D","Ground","Black spruce",NA
+"902",22.2,70,"WS","Ground","Black spruce",NA
+"903",22.3,50,"D","Ground","Black spruce",NA
+"904",23.2,83,"D","Ground","Black spruce",NA
+"905",23.3,76,"D","Ground","Black spruce",NA
+"906",24.1,83,"WS","Ground","Black spruce",NA
+"907",24.2,142,"D","Ground","Black spruce",NA
+"908",24.3,134,"WS","Ground","Black spruce",NA
+"909",25.1,75,"WS","Ground","Black spruce",NA
+"910",25.2,94,"D","Ground","Black spruce",NA
+"911",25.3,140,"WS","Ground","Black spruce",NA
+"912",27.1,84,"BS","Ground","Black spruce",NA
+"913",27.2,66,"BS","Ground","Black spruce",NA
+"914",27.3,85,"BS","Ground","Black spruce",NA
+"915",29.1,65,"WS","Ground","Black spruce",NA
+"916",29.2,52,"D","Ground","Black spruce",NA
+"917",29.3,52,"WS","Ground","Black spruce",NA
+"918",29.4,105,"WS","Ground","Black spruce",NA
+"919",1,196,"D","Upper canopy","Herbaceous",NA
+"920",1.1,83,"BS","Upper canopy","Herbaceous",NA
+"921",1.2,93,"WS","Upper canopy","Herbaceous",NA
+"922",1.3,158,"WS","Upper canopy","Herbaceous",NA
+"923",2,35,"D","Upper canopy","Herbaceous",NA
+"924",2.1,140,"D","Upper canopy","Herbaceous",NA
+"925",2.2,170,"WS","Upper canopy","Herbaceous",NA
+"926",3,185,"D","Upper canopy","Herbaceous",NA
+"927",3.1,128,"D","Upper canopy","Herbaceous",NA
+"928",3.2,174,"D","Upper canopy","Herbaceous",NA
+"929",3.3,60,"D","Upper canopy","Herbaceous",NA
+"930",4,85,"D","Upper canopy","Herbaceous",NA
+"931",4.1,48,"D","Upper canopy","Herbaceous",NA
+"932",4.2,60,"D","Upper canopy","Herbaceous",NA
+"933",4.3,71,"D","Upper canopy","Herbaceous",NA
+"934",4.4,58,"D","Upper canopy","Herbaceous",NA
+"935",5,5,"recent fire","Upper canopy","Herbaceous",NA
+"936",5.5,85,"BS","Upper canopy","Herbaceous",NA
+"937",5.6,92,"BS","Upper canopy","Herbaceous",NA
+"938",6,52,"WS","Upper canopy","Herbaceous",NA
+"939",6.1,77,"D","Upper canopy","Herbaceous",NA
+"940",6.2,90,"D","Upper canopy","Herbaceous",NA
+"941",6.3,87,"D","Upper canopy","Herbaceous",NA
+"942",6.4,89,"D","Upper canopy","Herbaceous",NA
+"943",7,177,"WS","Upper canopy","Herbaceous",NA
+"944",7.1,85,"D","Upper canopy","Herbaceous",NA
+"945",7.2,80,"D","Upper canopy","Herbaceous",NA
+"946",7.5,102,"BS","Upper canopy","Herbaceous",NA
+"947",7.6,114,"BS","Upper canopy","Herbaceous",NA
+"948",8,19,"Early recovery","Upper canopy","Herbaceous",NA
+"949",9,76,"BS","Upper canopy","Herbaceous",NA
+"950",9.2,73,"D","Upper canopy","Herbaceous",NA
+"951",9.3,78,"D","Upper canopy","Herbaceous",NA
+"952",9.4,122,"BS","Upper canopy","Herbaceous",NA
+"953",9.5,67,"D","Upper canopy","Herbaceous",NA
+"954",9.6,114,"D","Upper canopy","Herbaceous",NA
+"955",10,32,"Early recovery","Upper canopy","Herbaceous",NA
+"956",11,199,"BS","Upper canopy","Herbaceous",NA
+"957",11.1,80,"D","Upper canopy","Herbaceous",NA
+"958",11.2,99,"D","Upper canopy","Herbaceous",NA
+"959",11.3,45,"D","Upper canopy","Herbaceous",NA
+"960",11.4,54,"D","Upper canopy","Herbaceous",NA
+"961",12,60,"D","Upper canopy","Herbaceous",NA
+"962",13,76,"D","Upper canopy","Herbaceous",NA
+"963",13.1,85,"D","Upper canopy","Herbaceous",NA
+"964",13.2,85,"D","Upper canopy","Herbaceous",NA
+"965",14,15,"Early recovery","Upper canopy","Herbaceous",NA
+"966",14.1,87,"BS","Upper canopy","Herbaceous",NA
+"967",14.2,134,"BS","Upper canopy","Herbaceous",NA
+"968",14.3,65,"BS","Upper canopy","Herbaceous",NA
+"969",14.4,136,"BS","Upper canopy","Herbaceous",NA
+"970",14.5,134,"WS","Upper canopy","Herbaceous",NA
+"971",14.6,81,"BS","Upper canopy","Herbaceous",NA
+"972",15,47,"D","Upper canopy","Herbaceous",NA
+"973",15.1,78,"BS","Upper canopy","Herbaceous",NA
+"974",15.2,83,"BS","Upper canopy","Herbaceous",NA
+"975",15.3,85,"BS","Upper canopy","Herbaceous",NA
+"976",15.4,75,"BS","Upper canopy","Herbaceous",NA
+"977",15.5,80,"BS","Upper canopy","Herbaceous",NA
+"978",15.6,83,"BS","Upper canopy","Herbaceous",NA
+"979",16,3,"recent fire","Upper canopy","Herbaceous",NA
+"980",16.1,118,"D","Upper canopy","Herbaceous",NA
+"981",16.2,100,"D","Upper canopy","Herbaceous",NA
+"982",16.3,106,"D","Upper canopy","Herbaceous",NA
+"983",16.4,68,"D","Upper canopy","Herbaceous",NA
+"984",16.5,138,"D","Upper canopy","Herbaceous",NA
+"985",16.6,68,"D","Upper canopy","Herbaceous",NA
+"986",17,16,"Early recovery","Upper canopy","Herbaceous",NA
+"987",17.1,176,"D","Upper canopy","Herbaceous",NA
+"988",17.2,69,"D","Upper canopy","Herbaceous",NA
+"989",17.3,118,"D","Upper canopy","Herbaceous",NA
+"990",17.4,136,"D","Upper canopy","Herbaceous",NA
+"991",17.5,148,"D","Upper canopy","Herbaceous",NA
+"992",17.6,72,"D","Upper canopy","Herbaceous",NA
+"993",18,8,"recent fire","Upper canopy","Herbaceous",NA
+"994",18.1,125,"BS","Upper canopy","Herbaceous",NA
+"995",18.2,175,"D","Upper canopy","Herbaceous",NA
+"996",19,60,"D","Upper canopy","Herbaceous",NA
+"997",20,14,"Early recovery","Upper canopy","Herbaceous",NA
+"998",20.1,75,"BS","Upper canopy","Herbaceous",NA
+"999",20.2,63,"BS","Upper canopy","Herbaceous",NA
+"1000",20.3,73,"BS","Upper canopy","Herbaceous",NA
+"1001",21.1,73,"BS","Upper canopy","Herbaceous",NA
+"1002",21.2,106,"BS","Upper canopy","Herbaceous",NA
+"1003",22.1,60,"D","Upper canopy","Herbaceous",NA
+"1004",22.2,70,"WS","Upper canopy","Herbaceous",NA
+"1005",22.3,50,"D","Upper canopy","Herbaceous",NA
+"1006",23.2,83,"D","Upper canopy","Herbaceous",NA
+"1007",23.3,76,"D","Upper canopy","Herbaceous",NA
+"1008",24.1,83,"WS","Upper canopy","Herbaceous",NA
+"1009",24.2,142,"D","Upper canopy","Herbaceous",NA
+"1010",24.3,134,"WS","Upper canopy","Herbaceous",NA
+"1011",25.1,75,"WS","Upper canopy","Herbaceous",NA
+"1012",25.2,94,"D","Upper canopy","Herbaceous",NA
+"1013",25.3,140,"WS","Upper canopy","Herbaceous",NA
+"1014",27.1,84,"BS","Upper canopy","Herbaceous",NA
+"1015",27.2,66,"BS","Upper canopy","Herbaceous",NA
+"1016",27.3,85,"BS","Upper canopy","Herbaceous",NA
+"1017",29.1,65,"WS","Upper canopy","Herbaceous",NA
+"1018",29.2,52,"D","Upper canopy","Herbaceous",NA
+"1019",29.3,52,"WS","Upper canopy","Herbaceous",NA
+"1020",29.4,105,"WS","Upper canopy","Herbaceous",NA
+"1021",1,196,"D","Lower canopy","Herbaceous",NA
+"1022",1.1,83,"BS","Lower canopy","Herbaceous",NA
+"1023",1.2,93,"WS","Lower canopy","Herbaceous",NA
+"1024",1.3,158,"WS","Lower canopy","Herbaceous",NA
+"1025",2,35,"D","Lower canopy","Herbaceous",NA
+"1026",2.1,140,"D","Lower canopy","Herbaceous",NA
+"1027",2.2,170,"WS","Lower canopy","Herbaceous",NA
+"1028",3,185,"D","Lower canopy","Herbaceous",NA
+"1029",3.1,128,"D","Lower canopy","Herbaceous",NA
+"1030",3.2,174,"D","Lower canopy","Herbaceous",NA
+"1031",3.3,60,"D","Lower canopy","Herbaceous",NA
+"1032",4,85,"D","Lower canopy","Herbaceous",NA
+"1033",4.1,48,"D","Lower canopy","Herbaceous",NA
+"1034",4.2,60,"D","Lower canopy","Herbaceous",NA
+"1035",4.3,71,"D","Lower canopy","Herbaceous",NA
+"1036",4.4,58,"D","Lower canopy","Herbaceous",NA
+"1037",5,5,"recent fire","Lower canopy","Herbaceous",NA
+"1038",5.5,85,"BS","Lower canopy","Herbaceous",NA
+"1039",5.6,92,"BS","Lower canopy","Herbaceous",NA
+"1040",6,52,"WS","Lower canopy","Herbaceous",NA
+"1041",6.1,77,"D","Lower canopy","Herbaceous",NA
+"1042",6.2,90,"D","Lower canopy","Herbaceous",NA
+"1043",6.3,87,"D","Lower canopy","Herbaceous",NA
+"1044",6.4,89,"D","Lower canopy","Herbaceous",NA
+"1045",7,177,"WS","Lower canopy","Herbaceous",NA
+"1046",7.1,85,"D","Lower canopy","Herbaceous",NA
+"1047",7.2,80,"D","Lower canopy","Herbaceous",NA
+"1048",7.5,102,"BS","Lower canopy","Herbaceous",NA
+"1049",7.6,114,"BS","Lower canopy","Herbaceous",NA
+"1050",8,19,"Early recovery","Lower canopy","Herbaceous",NA
+"1051",9,76,"BS","Lower canopy","Herbaceous",NA
+"1052",9.2,73,"D","Lower canopy","Herbaceous",NA
+"1053",9.3,78,"D","Lower canopy","Herbaceous",NA
+"1054",9.4,122,"BS","Lower canopy","Herbaceous",NA
+"1055",9.5,67,"D","Lower canopy","Herbaceous",NA
+"1056",9.6,114,"D","Lower canopy","Herbaceous",NA
+"1057",10,32,"Early recovery","Lower canopy","Herbaceous",NA
+"1058",11,199,"BS","Lower canopy","Herbaceous",NA
+"1059",11.1,80,"D","Lower canopy","Herbaceous",NA
+"1060",11.2,99,"D","Lower canopy","Herbaceous",NA
+"1061",11.3,45,"D","Lower canopy","Herbaceous",NA
+"1062",11.4,54,"D","Lower canopy","Herbaceous",NA
+"1063",12,60,"D","Lower canopy","Herbaceous",NA
+"1064",13,76,"D","Lower canopy","Herbaceous",NA
+"1065",13.1,85,"D","Lower canopy","Herbaceous",NA
+"1066",13.2,85,"D","Lower canopy","Herbaceous",NA
+"1067",14,15,"Early recovery","Lower canopy","Herbaceous",NA
+"1068",14.1,87,"BS","Lower canopy","Herbaceous",NA
+"1069",14.2,134,"BS","Lower canopy","Herbaceous",NA
+"1070",14.3,65,"BS","Lower canopy","Herbaceous",NA
+"1071",14.4,136,"BS","Lower canopy","Herbaceous",NA
+"1072",14.5,134,"WS","Lower canopy","Herbaceous",NA
+"1073",14.6,81,"BS","Lower canopy","Herbaceous",NA
+"1074",15,47,"D","Lower canopy","Herbaceous",NA
+"1075",15.1,78,"BS","Lower canopy","Herbaceous",NA
+"1076",15.2,83,"BS","Lower canopy","Herbaceous",NA
+"1077",15.3,85,"BS","Lower canopy","Herbaceous",NA
+"1078",15.4,75,"BS","Lower canopy","Herbaceous",NA
+"1079",15.5,80,"BS","Lower canopy","Herbaceous",NA
+"1080",15.6,83,"BS","Lower canopy","Herbaceous",NA
+"1081",16,3,"recent fire","Lower canopy","Herbaceous",NA
+"1082",16.1,118,"D","Lower canopy","Herbaceous",NA
+"1083",16.2,100,"D","Lower canopy","Herbaceous",NA
+"1084",16.3,106,"D","Lower canopy","Herbaceous",NA
+"1085",16.4,68,"D","Lower canopy","Herbaceous",NA
+"1086",16.5,138,"D","Lower canopy","Herbaceous",NA
+"1087",16.6,68,"D","Lower canopy","Herbaceous",NA
+"1088",17,16,"Early recovery","Lower canopy","Herbaceous",NA
+"1089",17.1,176,"D","Lower canopy","Herbaceous",NA
+"1090",17.2,69,"D","Lower canopy","Herbaceous",NA
+"1091",17.3,118,"D","Lower canopy","Herbaceous",NA
+"1092",17.4,136,"D","Lower canopy","Herbaceous",NA
+"1093",17.5,148,"D","Lower canopy","Herbaceous",NA
+"1094",17.6,72,"D","Lower canopy","Herbaceous",NA
+"1095",18,8,"recent fire","Lower canopy","Herbaceous",NA
+"1096",18.1,125,"BS","Lower canopy","Herbaceous",NA
+"1097",18.2,175,"D","Lower canopy","Herbaceous",NA
+"1098",19,60,"D","Lower canopy","Herbaceous",NA
+"1099",20,14,"Early recovery","Lower canopy","Herbaceous",NA
+"1100",20.1,75,"BS","Lower canopy","Herbaceous",NA
+"1101",20.2,63,"BS","Lower canopy","Herbaceous",NA
+"1102",20.3,73,"BS","Lower canopy","Herbaceous",NA
+"1103",21.1,73,"BS","Lower canopy","Herbaceous",NA
+"1104",21.2,106,"BS","Lower canopy","Herbaceous",NA
+"1105",22.1,60,"D","Lower canopy","Herbaceous",NA
+"1106",22.2,70,"WS","Lower canopy","Herbaceous",NA
+"1107",22.3,50,"D","Lower canopy","Herbaceous",NA
+"1108",23.2,83,"D","Lower canopy","Herbaceous",NA
+"1109",23.3,76,"D","Lower canopy","Herbaceous",NA
+"1110",24.1,83,"WS","Lower canopy","Herbaceous",NA
+"1111",24.2,142,"D","Lower canopy","Herbaceous",NA
+"1112",24.3,134,"WS","Lower canopy","Herbaceous",NA
+"1113",25.1,75,"WS","Lower canopy","Herbaceous",NA
+"1114",25.2,94,"D","Lower canopy","Herbaceous",NA
+"1115",25.3,140,"WS","Lower canopy","Herbaceous",NA
+"1116",27.1,84,"BS","Lower canopy","Herbaceous",NA
+"1117",27.2,66,"BS","Lower canopy","Herbaceous",NA
+"1118",27.3,85,"BS","Lower canopy","Herbaceous",NA
+"1119",29.1,65,"WS","Lower canopy","Herbaceous",NA
+"1120",29.2,52,"D","Lower canopy","Herbaceous",NA
+"1121",29.3,52,"WS","Lower canopy","Herbaceous",NA
+"1122",29.4,105,"WS","Lower canopy","Herbaceous",NA
+"1123",1,196,"D","Ground","Herbaceous",32.6
+"1124",1.1,83,"BS","Ground","Herbaceous",48
+"1125",1.2,93,"WS","Ground","Herbaceous",62.5
+"1126",1.3,158,"WS","Ground","Herbaceous",NA
+"1127",2,35,"D","Ground","Herbaceous",29.48
+"1128",2.1,140,"D","Ground","Herbaceous",8.75
+"1129",2.2,170,"WS","Ground","Herbaceous",41.67
+"1130",3,185,"D","Ground","Herbaceous",39.6
+"1131",3.1,128,"D","Ground","Herbaceous",NA
+"1132",3.2,174,"D","Ground","Herbaceous",45.41
+"1133",3.3,60,"D","Ground","Herbaceous",37.83
+"1134",4,85,"D","Ground","Herbaceous",29.16
+"1135",4.1,48,"D","Ground","Herbaceous",63.75
+"1136",4.2,60,"D","Ground","Herbaceous",74.58
+"1137",4.3,71,"D","Ground","Herbaceous",55.41
+"1138",4.4,58,"D","Ground","Herbaceous",62.83
+"1139",5,5,"recent fire","Ground","Herbaceous",37.5
+"1140",5.5,85,"BS","Ground","Herbaceous",NA
+"1141",5.6,92,"BS","Ground","Herbaceous",25
+"1142",6,52,"WS","Ground","Herbaceous",12
+"1143",6.1,77,"D","Ground","Herbaceous",14.41
+"1144",6.2,90,"D","Ground","Herbaceous",32.6
+"1145",6.3,87,"D","Ground","Herbaceous",16
+"1146",6.4,89,"D","Ground","Herbaceous",5.25
+"1147",7,177,"WS","Ground","Herbaceous",22.33
+"1148",7.1,85,"D","Ground","Herbaceous",7.83
+"1149",7.2,80,"D","Ground","Herbaceous",NA
+"1150",7.5,102,"BS","Ground","Herbaceous",29.58
+"1151",7.6,114,"BS","Ground","Herbaceous",25
+"1152",8,19,"Early recovery","Ground","Herbaceous",51.33
+"1153",9,76,"BS","Ground","Herbaceous",36.83
+"1154",9.2,73,"D","Ground","Herbaceous",17.25
+"1155",9.3,78,"D","Ground","Herbaceous",56.67
+"1156",9.4,122,"BS","Ground","Herbaceous",67
+"1157",9.5,67,"D","Ground","Herbaceous",81.58
+"1158",9.6,114,"D","Ground","Herbaceous",79.58
+"1159",10,32,"Early recovery","Ground","Herbaceous",NA
+"1160",11,199,"BS","Ground","Herbaceous",NA
+"1161",11.1,80,"D","Ground","Herbaceous",NA
+"1162",11.2,99,"D","Ground","Herbaceous",59.58
+"1163",11.3,45,"D","Ground","Herbaceous",86.16
+"1164",11.4,54,"D","Ground","Herbaceous",66.25
+"1165",12,60,"D","Ground","Herbaceous",36
+"1166",13,76,"D","Ground","Herbaceous",14.33
+"1167",13.1,85,"D","Ground","Herbaceous",48.67
+"1168",13.2,85,"D","Ground","Herbaceous",65.83
+"1169",14,15,"Early recovery","Ground","Herbaceous",73.8
+"1170",14.1,87,"BS","Ground","Herbaceous",35.583
+"1171",14.2,134,"BS","Ground","Herbaceous",28.5
+"1172",14.3,65,"BS","Ground","Herbaceous",43.58
+"1173",14.4,136,"BS","Ground","Herbaceous",37.41
+"1174",14.5,134,"WS","Ground","Herbaceous",33.33
+"1175",14.6,81,"BS","Ground","Herbaceous",29.5
+"1176",15,47,"D","Ground","Herbaceous",62.26
+"1177",15.1,78,"BS","Ground","Herbaceous",46.6
+"1178",15.2,83,"BS","Ground","Herbaceous",35.83
+"1179",15.3,85,"BS","Ground","Herbaceous",56.83
+"1180",15.4,75,"BS","Ground","Herbaceous",NA
+"1181",15.5,80,"BS","Ground","Herbaceous",NA
+"1182",15.6,83,"BS","Ground","Herbaceous",NA
+"1183",16,3,"recent fire","Ground","Herbaceous",34.56
+"1184",16.1,118,"D","Ground","Herbaceous",79.58
+"1185",16.2,100,"D","Ground","Herbaceous",88.41
+"1186",16.3,106,"D","Ground","Herbaceous",65.58
+"1187",16.4,68,"D","Ground","Herbaceous",77.5
+"1188",16.5,138,"D","Ground","Herbaceous",87
+"1189",16.6,68,"D","Ground","Herbaceous",77.91
+"1190",17,16,"Early recovery","Ground","Herbaceous",58.7
+"1191",17.1,176,"D","Ground","Herbaceous",69.41
+"1192",17.2,69,"D","Ground","Herbaceous",NA
+"1193",17.3,118,"D","Ground","Herbaceous",51.6
+"1194",17.4,136,"D","Ground","Herbaceous",NA
+"1195",17.5,148,"D","Ground","Herbaceous",75.5
+"1196",17.6,72,"D","Ground","Herbaceous",74.5
+"1197",18,8,"recent fire","Ground","Herbaceous",46
+"1198",18.1,125,"BS","Ground","Herbaceous",NA
+"1199",18.2,175,"D","Ground","Herbaceous",59.16
+"1200",19,60,"D","Ground","Herbaceous",57.6
+"1201",20,14,"Early recovery","Ground","Herbaceous",16.36
+"1202",20.1,75,"BS","Ground","Herbaceous",49.16
+"1203",20.2,63,"BS","Ground","Herbaceous",46.67
+"1204",20.3,73,"BS","Ground","Herbaceous",44.83
+"1205",21.1,73,"BS","Ground","Herbaceous",44
+"1206",21.2,106,"BS","Ground","Herbaceous",47.5
+"1207",22.1,60,"D","Ground","Herbaceous",16.67
+"1208",22.2,70,"WS","Ground","Herbaceous",35
+"1209",22.3,50,"D","Ground","Herbaceous",64.6
+"1210",23.2,83,"D","Ground","Herbaceous",39.16
+"1211",23.3,76,"D","Ground","Herbaceous",63.16
+"1212",24.1,83,"WS","Ground","Herbaceous",7.5
+"1213",24.2,142,"D","Ground","Herbaceous",11.6
+"1214",24.3,134,"WS","Ground","Herbaceous",29.3
+"1215",25.1,75,"WS","Ground","Herbaceous",43.3
+"1216",25.2,94,"D","Ground","Herbaceous",44
+"1217",25.3,140,"WS","Ground","Herbaceous",28.33
+"1218",27.1,84,"BS","Ground","Herbaceous",14.16
+"1219",27.2,66,"BS","Ground","Herbaceous",3.16
+"1220",27.3,85,"BS","Ground","Herbaceous",4.5
+"1221",29.1,65,"WS","Ground","Herbaceous",88.33
+"1222",29.2,52,"D","Ground","Herbaceous",64
+"1223",29.3,52,"WS","Ground","Herbaceous",24.16
+"1224",29.4,105,"WS","Ground","Herbaceous",39.3
+"1225",1,196,"D","Upper canopy","Moss",NA
+"1226",1.1,83,"BS","Upper canopy","Moss",NA
+"1227",1.2,93,"WS","Upper canopy","Moss",NA
+"1228",1.3,158,"WS","Upper canopy","Moss",NA
+"1229",2,35,"D","Upper canopy","Moss",NA
+"1230",2.1,140,"D","Upper canopy","Moss",NA
+"1231",2.2,170,"WS","Upper canopy","Moss",NA
+"1232",3,185,"D","Upper canopy","Moss",NA
+"1233",3.1,128,"D","Upper canopy","Moss",NA
+"1234",3.2,174,"D","Upper canopy","Moss",NA
+"1235",3.3,60,"D","Upper canopy","Moss",NA
+"1236",4,85,"D","Upper canopy","Moss",NA
+"1237",4.1,48,"D","Upper canopy","Moss",NA
+"1238",4.2,60,"D","Upper canopy","Moss",NA
+"1239",4.3,71,"D","Upper canopy","Moss",NA
+"1240",4.4,58,"D","Upper canopy","Moss",NA
+"1241",5,5,"recent fire","Upper canopy","Moss",NA
+"1242",5.5,85,"BS","Upper canopy","Moss",NA
+"1243",5.6,92,"BS","Upper canopy","Moss",NA
+"1244",6,52,"WS","Upper canopy","Moss",NA
+"1245",6.1,77,"D","Upper canopy","Moss",NA
+"1246",6.2,90,"D","Upper canopy","Moss",NA
+"1247",6.3,87,"D","Upper canopy","Moss",NA
+"1248",6.4,89,"D","Upper canopy","Moss",NA
+"1249",7,177,"WS","Upper canopy","Moss",NA
+"1250",7.1,85,"D","Upper canopy","Moss",NA
+"1251",7.2,80,"D","Upper canopy","Moss",NA
+"1252",7.5,102,"BS","Upper canopy","Moss",NA
+"1253",7.6,114,"BS","Upper canopy","Moss",NA
+"1254",8,19,"Early recovery","Upper canopy","Moss",NA
+"1255",9,76,"BS","Upper canopy","Moss",NA
+"1256",9.2,73,"D","Upper canopy","Moss",NA
+"1257",9.3,78,"D","Upper canopy","Moss",NA
+"1258",9.4,122,"BS","Upper canopy","Moss",NA
+"1259",9.5,67,"D","Upper canopy","Moss",NA
+"1260",9.6,114,"D","Upper canopy","Moss",NA
+"1261",10,32,"Early recovery","Upper canopy","Moss",NA
+"1262",11,199,"BS","Upper canopy","Moss",NA
+"1263",11.1,80,"D","Upper canopy","Moss",NA
+"1264",11.2,99,"D","Upper canopy","Moss",NA
+"1265",11.3,45,"D","Upper canopy","Moss",NA
+"1266",11.4,54,"D","Upper canopy","Moss",NA
+"1267",12,60,"D","Upper canopy","Moss",NA
+"1268",13,76,"D","Upper canopy","Moss",NA
+"1269",13.1,85,"D","Upper canopy","Moss",NA
+"1270",13.2,85,"D","Upper canopy","Moss",NA
+"1271",14,15,"Early recovery","Upper canopy","Moss",NA
+"1272",14.1,87,"BS","Upper canopy","Moss",NA
+"1273",14.2,134,"BS","Upper canopy","Moss",NA
+"1274",14.3,65,"BS","Upper canopy","Moss",NA
+"1275",14.4,136,"BS","Upper canopy","Moss",NA
+"1276",14.5,134,"WS","Upper canopy","Moss",NA
+"1277",14.6,81,"BS","Upper canopy","Moss",NA
+"1278",15,47,"D","Upper canopy","Moss",NA
+"1279",15.1,78,"BS","Upper canopy","Moss",NA
+"1280",15.2,83,"BS","Upper canopy","Moss",NA
+"1281",15.3,85,"BS","Upper canopy","Moss",NA
+"1282",15.4,75,"BS","Upper canopy","Moss",NA
+"1283",15.5,80,"BS","Upper canopy","Moss",NA
+"1284",15.6,83,"BS","Upper canopy","Moss",NA
+"1285",16,3,"recent fire","Upper canopy","Moss",NA
+"1286",16.1,118,"D","Upper canopy","Moss",NA
+"1287",16.2,100,"D","Upper canopy","Moss",NA
+"1288",16.3,106,"D","Upper canopy","Moss",NA
+"1289",16.4,68,"D","Upper canopy","Moss",NA
+"1290",16.5,138,"D","Upper canopy","Moss",NA
+"1291",16.6,68,"D","Upper canopy","Moss",NA
+"1292",17,16,"Early recovery","Upper canopy","Moss",NA
+"1293",17.1,176,"D","Upper canopy","Moss",NA
+"1294",17.2,69,"D","Upper canopy","Moss",NA
+"1295",17.3,118,"D","Upper canopy","Moss",NA
+"1296",17.4,136,"D","Upper canopy","Moss",NA
+"1297",17.5,148,"D","Upper canopy","Moss",NA
+"1298",17.6,72,"D","Upper canopy","Moss",NA
+"1299",18,8,"recent fire","Upper canopy","Moss",NA
+"1300",18.1,125,"BS","Upper canopy","Moss",NA
+"1301",18.2,175,"D","Upper canopy","Moss",NA
+"1302",19,60,"D","Upper canopy","Moss",NA
+"1303",20,14,"Early recovery","Upper canopy","Moss",NA
+"1304",20.1,75,"BS","Upper canopy","Moss",NA
+"1305",20.2,63,"BS","Upper canopy","Moss",NA
+"1306",20.3,73,"BS","Upper canopy","Moss",NA
+"1307",21.1,73,"BS","Upper canopy","Moss",NA
+"1308",21.2,106,"BS","Upper canopy","Moss",NA
+"1309",22.1,60,"D","Upper canopy","Moss",NA
+"1310",22.2,70,"WS","Upper canopy","Moss",NA
+"1311",22.3,50,"D","Upper canopy","Moss",NA
+"1312",23.2,83,"D","Upper canopy","Moss",NA
+"1313",23.3,76,"D","Upper canopy","Moss",NA
+"1314",24.1,83,"WS","Upper canopy","Moss",NA
+"1315",24.2,142,"D","Upper canopy","Moss",NA
+"1316",24.3,134,"WS","Upper canopy","Moss",NA
+"1317",25.1,75,"WS","Upper canopy","Moss",NA
+"1318",25.2,94,"D","Upper canopy","Moss",NA
+"1319",25.3,140,"WS","Upper canopy","Moss",NA
+"1320",27.1,84,"BS","Upper canopy","Moss",NA
+"1321",27.2,66,"BS","Upper canopy","Moss",NA
+"1322",27.3,85,"BS","Upper canopy","Moss",NA
+"1323",29.1,65,"WS","Upper canopy","Moss",NA
+"1324",29.2,52,"D","Upper canopy","Moss",NA
+"1325",29.3,52,"WS","Upper canopy","Moss",NA
+"1326",29.4,105,"WS","Upper canopy","Moss",NA
+"1327",1,196,"D","Lower canopy","Moss",NA
+"1328",1.1,83,"BS","Lower canopy","Moss",NA
+"1329",1.2,93,"WS","Lower canopy","Moss",NA
+"1330",1.3,158,"WS","Lower canopy","Moss",NA
+"1331",2,35,"D","Lower canopy","Moss",NA
+"1332",2.1,140,"D","Lower canopy","Moss",NA
+"1333",2.2,170,"WS","Lower canopy","Moss",NA
+"1334",3,185,"D","Lower canopy","Moss",NA
+"1335",3.1,128,"D","Lower canopy","Moss",NA
+"1336",3.2,174,"D","Lower canopy","Moss",NA
+"1337",3.3,60,"D","Lower canopy","Moss",NA
+"1338",4,85,"D","Lower canopy","Moss",NA
+"1339",4.1,48,"D","Lower canopy","Moss",NA
+"1340",4.2,60,"D","Lower canopy","Moss",NA
+"1341",4.3,71,"D","Lower canopy","Moss",NA
+"1342",4.4,58,"D","Lower canopy","Moss",NA
+"1343",5,5,"recent fire","Lower canopy","Moss",NA
+"1344",5.5,85,"BS","Lower canopy","Moss",NA
+"1345",5.6,92,"BS","Lower canopy","Moss",NA
+"1346",6,52,"WS","Lower canopy","Moss",NA
+"1347",6.1,77,"D","Lower canopy","Moss",NA
+"1348",6.2,90,"D","Lower canopy","Moss",NA
+"1349",6.3,87,"D","Lower canopy","Moss",NA
+"1350",6.4,89,"D","Lower canopy","Moss",NA
+"1351",7,177,"WS","Lower canopy","Moss",NA
+"1352",7.1,85,"D","Lower canopy","Moss",NA
+"1353",7.2,80,"D","Lower canopy","Moss",NA
+"1354",7.5,102,"BS","Lower canopy","Moss",NA
+"1355",7.6,114,"BS","Lower canopy","Moss",NA
+"1356",8,19,"Early recovery","Lower canopy","Moss",NA
+"1357",9,76,"BS","Lower canopy","Moss",NA
+"1358",9.2,73,"D","Lower canopy","Moss",NA
+"1359",9.3,78,"D","Lower canopy","Moss",NA
+"1360",9.4,122,"BS","Lower canopy","Moss",NA
+"1361",9.5,67,"D","Lower canopy","Moss",NA
+"1362",9.6,114,"D","Lower canopy","Moss",NA
+"1363",10,32,"Early recovery","Lower canopy","Moss",NA
+"1364",11,199,"BS","Lower canopy","Moss",NA
+"1365",11.1,80,"D","Lower canopy","Moss",NA
+"1366",11.2,99,"D","Lower canopy","Moss",NA
+"1367",11.3,45,"D","Lower canopy","Moss",NA
+"1368",11.4,54,"D","Lower canopy","Moss",NA
+"1369",12,60,"D","Lower canopy","Moss",NA
+"1370",13,76,"D","Lower canopy","Moss",NA
+"1371",13.1,85,"D","Lower canopy","Moss",NA
+"1372",13.2,85,"D","Lower canopy","Moss",NA
+"1373",14,15,"Early recovery","Lower canopy","Moss",NA
+"1374",14.1,87,"BS","Lower canopy","Moss",NA
+"1375",14.2,134,"BS","Lower canopy","Moss",NA
+"1376",14.3,65,"BS","Lower canopy","Moss",NA
+"1377",14.4,136,"BS","Lower canopy","Moss",NA
+"1378",14.5,134,"WS","Lower canopy","Moss",NA
+"1379",14.6,81,"BS","Lower canopy","Moss",NA
+"1380",15,47,"D","Lower canopy","Moss",NA
+"1381",15.1,78,"BS","Lower canopy","Moss",NA
+"1382",15.2,83,"BS","Lower canopy","Moss",NA
+"1383",15.3,85,"BS","Lower canopy","Moss",NA
+"1384",15.4,75,"BS","Lower canopy","Moss",NA
+"1385",15.5,80,"BS","Lower canopy","Moss",NA
+"1386",15.6,83,"BS","Lower canopy","Moss",NA
+"1387",16,3,"recent fire","Lower canopy","Moss",NA
+"1388",16.1,118,"D","Lower canopy","Moss",NA
+"1389",16.2,100,"D","Lower canopy","Moss",NA
+"1390",16.3,106,"D","Lower canopy","Moss",NA
+"1391",16.4,68,"D","Lower canopy","Moss",NA
+"1392",16.5,138,"D","Lower canopy","Moss",NA
+"1393",16.6,68,"D","Lower canopy","Moss",NA
+"1394",17,16,"Early recovery","Lower canopy","Moss",NA
+"1395",17.1,176,"D","Lower canopy","Moss",NA
+"1396",17.2,69,"D","Lower canopy","Moss",NA
+"1397",17.3,118,"D","Lower canopy","Moss",NA
+"1398",17.4,136,"D","Lower canopy","Moss",NA
+"1399",17.5,148,"D","Lower canopy","Moss",NA
+"1400",17.6,72,"D","Lower canopy","Moss",NA
+"1401",18,8,"recent fire","Lower canopy","Moss",NA
+"1402",18.1,125,"BS","Lower canopy","Moss",NA
+"1403",18.2,175,"D","Lower canopy","Moss",NA
+"1404",19,60,"D","Lower canopy","Moss",NA
+"1405",20,14,"Early recovery","Lower canopy","Moss",NA
+"1406",20.1,75,"BS","Lower canopy","Moss",NA
+"1407",20.2,63,"BS","Lower canopy","Moss",NA
+"1408",20.3,73,"BS","Lower canopy","Moss",NA
+"1409",21.1,73,"BS","Lower canopy","Moss",NA
+"1410",21.2,106,"BS","Lower canopy","Moss",NA
+"1411",22.1,60,"D","Lower canopy","Moss",NA
+"1412",22.2,70,"WS","Lower canopy","Moss",NA
+"1413",22.3,50,"D","Lower canopy","Moss",NA
+"1414",23.2,83,"D","Lower canopy","Moss",NA
+"1415",23.3,76,"D","Lower canopy","Moss",NA
+"1416",24.1,83,"WS","Lower canopy","Moss",NA
+"1417",24.2,142,"D","Lower canopy","Moss",NA
+"1418",24.3,134,"WS","Lower canopy","Moss",NA
+"1419",25.1,75,"WS","Lower canopy","Moss",NA
+"1420",25.2,94,"D","Lower canopy","Moss",NA
+"1421",25.3,140,"WS","Lower canopy","Moss",NA
+"1422",27.1,84,"BS","Lower canopy","Moss",NA
+"1423",27.2,66,"BS","Lower canopy","Moss",NA
+"1424",27.3,85,"BS","Lower canopy","Moss",NA
+"1425",29.1,65,"WS","Lower canopy","Moss",NA
+"1426",29.2,52,"D","Lower canopy","Moss",NA
+"1427",29.3,52,"WS","Lower canopy","Moss",NA
+"1428",29.4,105,"WS","Lower canopy","Moss",NA
+"1429",1,196,"D","Ground","Moss",47
+"1430",1.1,83,"BS","Ground","Moss",36.67
+"1431",1.2,93,"WS","Ground","Moss",26.67
+"1432",1.3,158,"WS","Ground","Moss",25.83
+"1433",2,35,"D","Ground","Moss",4.3
+"1434",2.1,140,"D","Ground","Moss",72.5
+"1435",2.2,170,"WS","Ground","Moss",48.3
+"1436",3,185,"D","Ground","Moss",22.66
+"1437",3.1,128,"D","Ground","Moss",28.3
+"1438",3.2,174,"D","Ground","Moss",35.41
+"1439",3.3,60,"D","Ground","Moss",41.67
+"1440",4,85,"D","Ground","Moss",19.66
+"1441",4.1,48,"D","Ground","Moss",28.75
+"1442",4.2,60,"D","Ground","Moss",3.3
+"1443",4.3,71,"D","Ground","Moss",9.58
+"1444",4.4,58,"D","Ground","Moss",17.6
+"1445",5,5,"recent fire","Ground","Moss",24.83
+"1446",5.5,85,"BS","Ground","Moss",47.91
+"1447",5.6,92,"BS","Ground","Moss",NA
+"1448",6,52,"WS","Ground","Moss",66.83
+"1449",6.1,77,"D","Ground","Moss",8.9
+"1450",6.2,90,"D","Ground","Moss",3.6
+"1451",6.3,87,"D","Ground","Moss",11.91
+"1452",6.4,89,"D","Ground","Moss",5.25
+"1453",7,177,"WS","Ground","Moss",42.16
+"1454",7.1,85,"D","Ground","Moss",7.41
+"1455",7.2,80,"D","Ground","Moss",41
+"1456",7.5,102,"BS","Ground","Moss",54.5
+"1457",7.6,114,"BS","Ground","Moss",62.5
+"1458",8,19,"Early recovery","Ground","Moss",1.16
+"1459",9,76,"BS","Ground","Moss",48
+"1460",9.2,73,"D","Ground","Moss",56.91
+"1461",9.3,78,"D","Ground","Moss",NA
+"1462",9.4,122,"BS","Ground","Moss",NA
+"1463",9.5,67,"D","Ground","Moss",2.16
+"1464",9.6,114,"D","Ground","Moss",NA
+"1465",10,32,"Early recovery","Ground","Moss",5
+"1466",11,199,"BS","Ground","Moss",37.33
+"1467",11.1,80,"D","Ground","Moss",NA
+"1468",11.2,99,"D","Ground","Moss",9.41
+"1469",11.3,45,"D","Ground","Moss",NA
+"1470",11.4,54,"D","Ground","Moss",NA
+"1471",12,60,"D","Ground","Moss",37.83
+"1472",13,76,"D","Ground","Moss",NA
+"1473",13.1,85,"D","Ground","Moss",1.91
+"1474",13.2,85,"D","Ground","Moss",NA
+"1475",14,15,"Early recovery","Ground","Moss",6.33
+"1476",14.1,87,"BS","Ground","Moss",63.3
+"1477",14.2,134,"BS","Ground","Moss",NA
+"1478",14.3,65,"BS","Ground","Moss",45.83
+"1479",14.4,136,"BS","Ground","Moss",NA
+"1480",14.5,134,"WS","Ground","Moss",48.58
+"1481",14.6,81,"BS","Ground","Moss",63.6
+"1482",15,47,"D","Ground","Moss",18.63
+"1483",15.1,78,"BS","Ground","Moss",41.9
+"1484",15.2,83,"BS","Ground","Moss",61.83
+"1485",15.3,85,"BS","Ground","Moss",12.75
+"1486",15.4,75,"BS","Ground","Moss",67.4
+"1487",15.5,80,"BS","Ground","Moss",NA
+"1488",15.6,83,"BS","Ground","Moss",71.6
+"1489",16,3,"recent fire","Ground","Moss",15
+"1490",16.1,118,"D","Ground","Moss",9.16
+"1491",16.2,100,"D","Ground","Moss",1.3
+"1492",16.3,106,"D","Ground","Moss",5.5
+"1493",16.4,68,"D","Ground","Moss",12.91
+"1494",16.5,138,"D","Ground","Moss",NA
+"1495",16.6,68,"D","Ground","Moss",19.58
+"1496",17,16,"Early recovery","Ground","Moss",NA
+"1497",17.1,176,"D","Ground","Moss",NA
+"1498",17.2,69,"D","Ground","Moss",24.6
+"1499",17.3,118,"D","Ground","Moss",8.5
+"1500",17.4,136,"D","Ground","Moss",6.6
+"1501",17.5,148,"D","Ground","Moss",4.5
+"1502",17.6,72,"D","Ground","Moss",1
+"1503",18,8,"recent fire","Ground","Moss",34
+"1504",18.1,125,"BS","Ground","Moss",29.25
+"1505",18.2,175,"D","Ground","Moss",NA
+"1506",19,60,"D","Ground","Moss",NA
+"1507",20,14,"Early recovery","Ground","Moss",35
+"1508",20.1,75,"BS","Ground","Moss",47.5
+"1509",20.2,63,"BS","Ground","Moss",47.83
+"1510",20.3,73,"BS","Ground","Moss",45
+"1511",21.1,73,"BS","Ground","Moss",48.3
+"1512",21.2,106,"BS","Ground","Moss",NA
+"1513",22.1,60,"D","Ground","Moss",NA
+"1514",22.2,70,"WS","Ground","Moss",54.83
+"1515",22.3,50,"D","Ground","Moss",1.3
+"1516",23.2,83,"D","Ground","Moss",48.83
+"1517",23.3,76,"D","Ground","Moss",NA
+"1518",24.1,83,"WS","Ground","Moss",74.1
+"1519",24.2,142,"D","Ground","Moss",NA
+"1520",24.3,134,"WS","Ground","Moss",48.16
+"1521",25.1,75,"WS","Ground","Moss",41.5
+"1522",25.2,94,"D","Ground","Moss",NA
+"1523",25.3,140,"WS","Ground","Moss",42.5
+"1524",27.1,84,"BS","Ground","Moss",74.16
+"1525",27.2,66,"BS","Ground","Moss",88.16
+"1526",27.3,85,"BS","Ground","Moss",49
+"1527",29.1,65,"WS","Ground","Moss",11.66
+"1528",29.2,52,"D","Ground","Moss",2.5
+"1529",29.3,52,"WS","Ground","Moss",27.5
+"1530",29.4,105,"WS","Ground","Moss",8.5
+"1531",1,196,"D","Upper canopy","Lichen",NA
+"1532",1.1,83,"BS","Upper canopy","Lichen",NA
+"1533",1.2,93,"WS","Upper canopy","Lichen",NA
+"1534",1.3,158,"WS","Upper canopy","Lichen",NA
+"1535",2,35,"D","Upper canopy","Lichen",NA
+"1536",2.1,140,"D","Upper canopy","Lichen",NA
+"1537",2.2,170,"WS","Upper canopy","Lichen",NA
+"1538",3,185,"D","Upper canopy","Lichen",NA
+"1539",3.1,128,"D","Upper canopy","Lichen",NA
+"1540",3.2,174,"D","Upper canopy","Lichen",NA
+"1541",3.3,60,"D","Upper canopy","Lichen",NA
+"1542",4,85,"D","Upper canopy","Lichen",NA
+"1543",4.1,48,"D","Upper canopy","Lichen",NA
+"1544",4.2,60,"D","Upper canopy","Lichen",NA
+"1545",4.3,71,"D","Upper canopy","Lichen",NA
+"1546",4.4,58,"D","Upper canopy","Lichen",NA
+"1547",5,5,"recent fire","Upper canopy","Lichen",NA
+"1548",5.5,85,"BS","Upper canopy","Lichen",NA
+"1549",5.6,92,"BS","Upper canopy","Lichen",NA
+"1550",6,52,"WS","Upper canopy","Lichen",NA
+"1551",6.1,77,"D","Upper canopy","Lichen",NA
+"1552",6.2,90,"D","Upper canopy","Lichen",NA
+"1553",6.3,87,"D","Upper canopy","Lichen",NA
+"1554",6.4,89,"D","Upper canopy","Lichen",NA
+"1555",7,177,"WS","Upper canopy","Lichen",NA
+"1556",7.1,85,"D","Upper canopy","Lichen",NA
+"1557",7.2,80,"D","Upper canopy","Lichen",NA
+"1558",7.5,102,"BS","Upper canopy","Lichen",NA
+"1559",7.6,114,"BS","Upper canopy","Lichen",NA
+"1560",8,19,"Early recovery","Upper canopy","Lichen",NA
+"1561",9,76,"BS","Upper canopy","Lichen",NA
+"1562",9.2,73,"D","Upper canopy","Lichen",NA
+"1563",9.3,78,"D","Upper canopy","Lichen",NA
+"1564",9.4,122,"BS","Upper canopy","Lichen",NA
+"1565",9.5,67,"D","Upper canopy","Lichen",NA
+"1566",9.6,114,"D","Upper canopy","Lichen",NA
+"1567",10,32,"Early recovery","Upper canopy","Lichen",NA
+"1568",11,199,"BS","Upper canopy","Lichen",NA
+"1569",11.1,80,"D","Upper canopy","Lichen",NA
+"1570",11.2,99,"D","Upper canopy","Lichen",NA
+"1571",11.3,45,"D","Upper canopy","Lichen",NA
+"1572",11.4,54,"D","Upper canopy","Lichen",NA
+"1573",12,60,"D","Upper canopy","Lichen",NA
+"1574",13,76,"D","Upper canopy","Lichen",NA
+"1575",13.1,85,"D","Upper canopy","Lichen",NA
+"1576",13.2,85,"D","Upper canopy","Lichen",NA
+"1577",14,15,"Early recovery","Upper canopy","Lichen",NA
+"1578",14.1,87,"BS","Upper canopy","Lichen",NA
+"1579",14.2,134,"BS","Upper canopy","Lichen",NA
+"1580",14.3,65,"BS","Upper canopy","Lichen",NA
+"1581",14.4,136,"BS","Upper canopy","Lichen",NA
+"1582",14.5,134,"WS","Upper canopy","Lichen",NA
+"1583",14.6,81,"BS","Upper canopy","Lichen",NA
+"1584",15,47,"D","Upper canopy","Lichen",NA
+"1585",15.1,78,"BS","Upper canopy","Lichen",NA
+"1586",15.2,83,"BS","Upper canopy","Lichen",NA
+"1587",15.3,85,"BS","Upper canopy","Lichen",NA
+"1588",15.4,75,"BS","Upper canopy","Lichen",NA
+"1589",15.5,80,"BS","Upper canopy","Lichen",NA
+"1590",15.6,83,"BS","Upper canopy","Lichen",NA
+"1591",16,3,"recent fire","Upper canopy","Lichen",NA
+"1592",16.1,118,"D","Upper canopy","Lichen",NA
+"1593",16.2,100,"D","Upper canopy","Lichen",NA
+"1594",16.3,106,"D","Upper canopy","Lichen",NA
+"1595",16.4,68,"D","Upper canopy","Lichen",NA
+"1596",16.5,138,"D","Upper canopy","Lichen",NA
+"1597",16.6,68,"D","Upper canopy","Lichen",NA
+"1598",17,16,"Early recovery","Upper canopy","Lichen",NA
+"1599",17.1,176,"D","Upper canopy","Lichen",NA
+"1600",17.2,69,"D","Upper canopy","Lichen",NA
+"1601",17.3,118,"D","Upper canopy","Lichen",NA
+"1602",17.4,136,"D","Upper canopy","Lichen",NA
+"1603",17.5,148,"D","Upper canopy","Lichen",NA
+"1604",17.6,72,"D","Upper canopy","Lichen",NA
+"1605",18,8,"recent fire","Upper canopy","Lichen",NA
+"1606",18.1,125,"BS","Upper canopy","Lichen",NA
+"1607",18.2,175,"D","Upper canopy","Lichen",NA
+"1608",19,60,"D","Upper canopy","Lichen",NA
+"1609",20,14,"Early recovery","Upper canopy","Lichen",NA
+"1610",20.1,75,"BS","Upper canopy","Lichen",NA
+"1611",20.2,63,"BS","Upper canopy","Lichen",NA
+"1612",20.3,73,"BS","Upper canopy","Lichen",NA
+"1613",21.1,73,"BS","Upper canopy","Lichen",NA
+"1614",21.2,106,"BS","Upper canopy","Lichen",NA
+"1615",22.1,60,"D","Upper canopy","Lichen",NA
+"1616",22.2,70,"WS","Upper canopy","Lichen",NA
+"1617",22.3,50,"D","Upper canopy","Lichen",NA
+"1618",23.2,83,"D","Upper canopy","Lichen",NA
+"1619",23.3,76,"D","Upper canopy","Lichen",NA
+"1620",24.1,83,"WS","Upper canopy","Lichen",NA
+"1621",24.2,142,"D","Upper canopy","Lichen",NA
+"1622",24.3,134,"WS","Upper canopy","Lichen",NA
+"1623",25.1,75,"WS","Upper canopy","Lichen",NA
+"1624",25.2,94,"D","Upper canopy","Lichen",NA
+"1625",25.3,140,"WS","Upper canopy","Lichen",NA
+"1626",27.1,84,"BS","Upper canopy","Lichen",NA
+"1627",27.2,66,"BS","Upper canopy","Lichen",NA
+"1628",27.3,85,"BS","Upper canopy","Lichen",NA
+"1629",29.1,65,"WS","Upper canopy","Lichen",NA
+"1630",29.2,52,"D","Upper canopy","Lichen",NA
+"1631",29.3,52,"WS","Upper canopy","Lichen",NA
+"1632",29.4,105,"WS","Upper canopy","Lichen",NA
+"1633",1,196,"D","Lower canopy","Lichen",NA
+"1634",1.1,83,"BS","Lower canopy","Lichen",NA
+"1635",1.2,93,"WS","Lower canopy","Lichen",NA
+"1636",1.3,158,"WS","Lower canopy","Lichen",NA
+"1637",2,35,"D","Lower canopy","Lichen",NA
+"1638",2.1,140,"D","Lower canopy","Lichen",NA
+"1639",2.2,170,"WS","Lower canopy","Lichen",NA
+"1640",3,185,"D","Lower canopy","Lichen",NA
+"1641",3.1,128,"D","Lower canopy","Lichen",NA
+"1642",3.2,174,"D","Lower canopy","Lichen",NA
+"1643",3.3,60,"D","Lower canopy","Lichen",NA
+"1644",4,85,"D","Lower canopy","Lichen",NA
+"1645",4.1,48,"D","Lower canopy","Lichen",NA
+"1646",4.2,60,"D","Lower canopy","Lichen",NA
+"1647",4.3,71,"D","Lower canopy","Lichen",NA
+"1648",4.4,58,"D","Lower canopy","Lichen",NA
+"1649",5,5,"recent fire","Lower canopy","Lichen",NA
+"1650",5.5,85,"BS","Lower canopy","Lichen",NA
+"1651",5.6,92,"BS","Lower canopy","Lichen",NA
+"1652",6,52,"WS","Lower canopy","Lichen",NA
+"1653",6.1,77,"D","Lower canopy","Lichen",NA
+"1654",6.2,90,"D","Lower canopy","Lichen",NA
+"1655",6.3,87,"D","Lower canopy","Lichen",NA
+"1656",6.4,89,"D","Lower canopy","Lichen",NA
+"1657",7,177,"WS","Lower canopy","Lichen",NA
+"1658",7.1,85,"D","Lower canopy","Lichen",NA
+"1659",7.2,80,"D","Lower canopy","Lichen",NA
+"1660",7.5,102,"BS","Lower canopy","Lichen",NA
+"1661",7.6,114,"BS","Lower canopy","Lichen",NA
+"1662",8,19,"Early recovery","Lower canopy","Lichen",NA
+"1663",9,76,"BS","Lower canopy","Lichen",NA
+"1664",9.2,73,"D","Lower canopy","Lichen",NA
+"1665",9.3,78,"D","Lower canopy","Lichen",NA
+"1666",9.4,122,"BS","Lower canopy","Lichen",NA
+"1667",9.5,67,"D","Lower canopy","Lichen",NA
+"1668",9.6,114,"D","Lower canopy","Lichen",NA
+"1669",10,32,"Early recovery","Lower canopy","Lichen",NA
+"1670",11,199,"BS","Lower canopy","Lichen",NA
+"1671",11.1,80,"D","Lower canopy","Lichen",NA
+"1672",11.2,99,"D","Lower canopy","Lichen",NA
+"1673",11.3,45,"D","Lower canopy","Lichen",NA
+"1674",11.4,54,"D","Lower canopy","Lichen",NA
+"1675",12,60,"D","Lower canopy","Lichen",NA
+"1676",13,76,"D","Lower canopy","Lichen",NA
+"1677",13.1,85,"D","Lower canopy","Lichen",NA
+"1678",13.2,85,"D","Lower canopy","Lichen",NA
+"1679",14,15,"Early recovery","Lower canopy","Lichen",NA
+"1680",14.1,87,"BS","Lower canopy","Lichen",NA
+"1681",14.2,134,"BS","Lower canopy","Lichen",NA
+"1682",14.3,65,"BS","Lower canopy","Lichen",NA
+"1683",14.4,136,"BS","Lower canopy","Lichen",NA
+"1684",14.5,134,"WS","Lower canopy","Lichen",NA
+"1685",14.6,81,"BS","Lower canopy","Lichen",NA
+"1686",15,47,"D","Lower canopy","Lichen",NA
+"1687",15.1,78,"BS","Lower canopy","Lichen",NA
+"1688",15.2,83,"BS","Lower canopy","Lichen",NA
+"1689",15.3,85,"BS","Lower canopy","Lichen",NA
+"1690",15.4,75,"BS","Lower canopy","Lichen",NA
+"1691",15.5,80,"BS","Lower canopy","Lichen",NA
+"1692",15.6,83,"BS","Lower canopy","Lichen",NA
+"1693",16,3,"recent fire","Lower canopy","Lichen",NA
+"1694",16.1,118,"D","Lower canopy","Lichen",NA
+"1695",16.2,100,"D","Lower canopy","Lichen",NA
+"1696",16.3,106,"D","Lower canopy","Lichen",NA
+"1697",16.4,68,"D","Lower canopy","Lichen",NA
+"1698",16.5,138,"D","Lower canopy","Lichen",NA
+"1699",16.6,68,"D","Lower canopy","Lichen",NA
+"1700",17,16,"Early recovery","Lower canopy","Lichen",NA
+"1701",17.1,176,"D","Lower canopy","Lichen",NA
+"1702",17.2,69,"D","Lower canopy","Lichen",NA
+"1703",17.3,118,"D","Lower canopy","Lichen",NA
+"1704",17.4,136,"D","Lower canopy","Lichen",NA
+"1705",17.5,148,"D","Lower canopy","Lichen",NA
+"1706",17.6,72,"D","Lower canopy","Lichen",NA
+"1707",18,8,"recent fire","Lower canopy","Lichen",NA
+"1708",18.1,125,"BS","Lower canopy","Lichen",NA
+"1709",18.2,175,"D","Lower canopy","Lichen",NA
+"1710",19,60,"D","Lower canopy","Lichen",NA
+"1711",20,14,"Early recovery","Lower canopy","Lichen",NA
+"1712",20.1,75,"BS","Lower canopy","Lichen",NA
+"1713",20.2,63,"BS","Lower canopy","Lichen",NA
+"1714",20.3,73,"BS","Lower canopy","Lichen",NA
+"1715",21.1,73,"BS","Lower canopy","Lichen",NA
+"1716",21.2,106,"BS","Lower canopy","Lichen",NA
+"1717",22.1,60,"D","Lower canopy","Lichen",NA
+"1718",22.2,70,"WS","Lower canopy","Lichen",NA
+"1719",22.3,50,"D","Lower canopy","Lichen",NA
+"1720",23.2,83,"D","Lower canopy","Lichen",NA
+"1721",23.3,76,"D","Lower canopy","Lichen",NA
+"1722",24.1,83,"WS","Lower canopy","Lichen",NA
+"1723",24.2,142,"D","Lower canopy","Lichen",NA
+"1724",24.3,134,"WS","Lower canopy","Lichen",NA
+"1725",25.1,75,"WS","Lower canopy","Lichen",NA
+"1726",25.2,94,"D","Lower canopy","Lichen",NA
+"1727",25.3,140,"WS","Lower canopy","Lichen",NA
+"1728",27.1,84,"BS","Lower canopy","Lichen",NA
+"1729",27.2,66,"BS","Lower canopy","Lichen",NA
+"1730",27.3,85,"BS","Lower canopy","Lichen",NA
+"1731",29.1,65,"WS","Lower canopy","Lichen",NA
+"1732",29.2,52,"D","Lower canopy","Lichen",NA
+"1733",29.3,52,"WS","Lower canopy","Lichen",NA
+"1734",29.4,105,"WS","Lower canopy","Lichen",NA
+"1735",1,196,"D","Ground","Lichen",NA
+"1736",1.1,83,"BS","Ground","Lichen",7.4
+"1737",1.2,93,"WS","Ground","Lichen",NA
+"1738",1.3,158,"WS","Ground","Lichen",4.16
+"1739",2,35,"D","Ground","Lichen",NA
+"1740",2.1,140,"D","Ground","Lichen",9.16
+"1741",2.2,170,"WS","Ground","Lichen",NA
+"1742",3,185,"D","Ground","Lichen",NA
+"1743",3.1,128,"D","Ground","Lichen",1
+"1744",3.2,174,"D","Ground","Lichen",9.58
+"1745",3.3,60,"D","Ground","Lichen",1.3
+"1746",4,85,"D","Ground","Lichen",NA
+"1747",4.1,48,"D","Ground","Lichen",NA
+"1748",4.2,60,"D","Ground","Lichen",NA
+"1749",4.3,71,"D","Ground","Lichen",NA
+"1750",4.4,58,"D","Ground","Lichen",NA
+"1751",5,5,"recent fire","Ground","Lichen",NA
+"1752",5.5,85,"BS","Ground","Lichen",27.5
+"1753",5.6,92,"BS","Ground","Lichen",31.5
+"1754",6,52,"WS","Ground","Lichen",NA
+"1755",6.1,77,"D","Ground","Lichen",NA
+"1756",6.2,90,"D","Ground","Lichen",NA
+"1757",6.3,87,"D","Ground","Lichen",NA
+"1758",6.4,89,"D","Ground","Lichen",NA
+"1759",7,177,"WS","Ground","Lichen",NA
+"1760",7.1,85,"D","Ground","Lichen",NA
+"1761",7.2,80,"D","Ground","Lichen",NA
+"1762",7.5,102,"BS","Ground","Lichen",15
+"1763",7.6,114,"BS","Ground","Lichen",11.6
+"1764",8,19,"Early recovery","Ground","Lichen",NA
+"1765",9,76,"BS","Ground","Lichen",NA
+"1766",9.2,73,"D","Ground","Lichen",NA
+"1767",9.3,78,"D","Ground","Lichen",NA
+"1768",9.4,122,"BS","Ground","Lichen",NA
+"1769",9.5,67,"D","Ground","Lichen",NA
+"1770",9.6,114,"D","Ground","Lichen",NA
+"1771",10,32,"Early recovery","Ground","Lichen",NA
+"1772",11,199,"BS","Ground","Lichen",NA
+"1773",11.1,80,"D","Ground","Lichen",NA
+"1774",11.2,99,"D","Ground","Lichen",NA
+"1775",11.3,45,"D","Ground","Lichen",NA
+"1776",11.4,54,"D","Ground","Lichen",NA
+"1777",12,60,"D","Ground","Lichen",NA
+"1778",13,76,"D","Ground","Lichen",NA
+"1779",13.1,85,"D","Ground","Lichen",NA
+"1780",13.2,85,"D","Ground","Lichen",NA
+"1781",14,15,"Early recovery","Ground","Lichen",NA
+"1782",14.1,87,"BS","Ground","Lichen",1
+"1783",14.2,134,"BS","Ground","Lichen",5.14
+"1784",14.3,65,"BS","Ground","Lichen",9.58
+"1785",14.4,136,"BS","Ground","Lichen",2.2
+"1786",14.5,134,"WS","Ground","Lichen",3.4
+"1787",14.6,81,"BS","Ground","Lichen",1
+"1788",15,47,"D","Ground","Lichen",NA
+"1789",15.1,78,"BS","Ground","Lichen",4.3
+"1790",15.2,83,"BS","Ground","Lichen",4
+"1791",15.3,85,"BS","Ground","Lichen",NA
+"1792",15.4,75,"BS","Ground","Lichen",5
+"1793",15.5,80,"BS","Ground","Lichen",2.5
+"1794",15.6,83,"BS","Ground","Lichen",1
+"1795",16,3,"recent fire","Ground","Lichen",NA
+"1796",16.1,118,"D","Ground","Lichen",NA
+"1797",16.2,100,"D","Ground","Lichen",NA
+"1798",16.3,106,"D","Ground","Lichen",NA
+"1799",16.4,68,"D","Ground","Lichen",NA
+"1800",16.5,138,"D","Ground","Lichen",NA
+"1801",16.6,68,"D","Ground","Lichen",NA
+"1802",17,16,"Early recovery","Ground","Lichen",NA
+"1803",17.1,176,"D","Ground","Lichen",NA
+"1804",17.2,69,"D","Ground","Lichen",NA
+"1805",17.3,118,"D","Ground","Lichen",NA
+"1806",17.4,136,"D","Ground","Lichen",NA
+"1807",17.5,148,"D","Ground","Lichen",NA
+"1808",17.6,72,"D","Ground","Lichen",NA
+"1809",18,8,"recent fire","Ground","Lichen",NA
+"1810",18.1,125,"BS","Ground","Lichen",9.5
+"1811",18.2,175,"D","Ground","Lichen",2
+"1812",19,60,"D","Ground","Lichen",NA
+"1813",20,14,"Early recovery","Ground","Lichen",NA
+"1814",20.1,75,"BS","Ground","Lichen",3.3
+"1815",20.2,63,"BS","Ground","Lichen",5.5
+"1816",20.3,73,"BS","Ground","Lichen",2.6
+"1817",21.1,73,"BS","Ground","Lichen",9.2
+"1818",21.2,106,"BS","Ground","Lichen",11.6
+"1819",22.1,60,"D","Ground","Lichen",NA
+"1820",22.2,70,"WS","Ground","Lichen",NA
+"1821",22.3,50,"D","Ground","Lichen",NA
+"1822",23.2,83,"D","Ground","Lichen",NA
+"1823",23.3,76,"D","Ground","Lichen",NA
+"1824",24.1,83,"WS","Ground","Lichen",1.16
+"1825",24.2,142,"D","Ground","Lichen",NA
+"1826",24.3,134,"WS","Ground","Lichen",NA
+"1827",25.1,75,"WS","Ground","Lichen",1
+"1828",25.2,94,"D","Ground","Lichen",NA
+"1829",25.3,140,"WS","Ground","Lichen",NA
+"1830",27.1,84,"BS","Ground","Lichen",NA
+"1831",27.2,66,"BS","Ground","Lichen",NA
+"1832",27.3,85,"BS","Ground","Lichen",NA
+"1833",29.1,65,"WS","Ground","Lichen",NA
+"1834",29.2,52,"D","Ground","Lichen",NA
+"1835",29.3,52,"WS","Ground","Lichen",NA
+"1836",29.4,105,"WS","Ground","Lichen",1.6
+"1837",1,196,"D","Upper canopy","Open",72.68
+"1838",1.1,83,"BS","Upper canopy","Open",96.7
+"1839",1.2,93,"WS","Upper canopy","Open",93.4
+"1840",1.3,158,"WS","Upper canopy","Open",87.54
+"1841",2,35,"D","Upper canopy","Open",15.4
+"1842",2.1,140,"D","Upper canopy","Open",82.5
+"1843",2.2,170,"WS","Upper canopy","Open",75.1
+"1844",3,185,"D","Upper canopy","Open",55.1
+"1845",3.1,128,"D","Upper canopy","Open",87.93
+"1846",3.2,174,"D","Upper canopy","Open",100
+"1847",3.3,60,"D","Upper canopy","Open",84.09
+"1848",4,85,"D","Upper canopy","Open",32.333
+"1849",4.1,48,"D","Upper canopy","Open",55.54
+"1850",4.2,60,"D","Upper canopy","Open",24.18
+"1851",4.3,71,"D","Upper canopy","Open",44.17
+"1852",4.4,58,"D","Upper canopy","Open",47.5
+"1853",5,5,"recent fire","Upper canopy","Open",97
+"1854",5.5,85,"BS","Upper canopy","Open",73.5
+"1855",5.6,92,"BS","Upper canopy","Open",100
+"1856",6,52,"WS","Upper canopy","Open",61.03
+"1857",6.1,77,"D","Upper canopy","Open",28.34
+"1858",6.2,90,"D","Upper canopy","Open",23.75
+"1859",6.3,87,"D","Upper canopy","Open",40.1
+"1860",6.4,89,"D","Upper canopy","Open",28.34
+"1861",7,177,"WS","Upper canopy","Open",65.45
+"1862",7.1,85,"D","Upper canopy","Open",26.7
+"1863",7.2,80,"D","Upper canopy","Open",48.07
+"1864",7.5,102,"BS","Upper canopy","Open",91.25
+"1865",7.6,114,"BS","Upper canopy","Open",82.833
+"1866",8,19,"Early recovery","Upper canopy","Open",84
+"1867",9,76,"BS","Upper canopy","Open",94.5
+"1868",9.2,73,"D","Upper canopy","Open",56.8
+"1869",9.3,78,"D","Upper canopy","Open",55.42
+"1870",9.4,122,"BS","Upper canopy","Open",80.84
+"1871",9.5,67,"D","Upper canopy","Open",74.17
+"1872",9.6,114,"D","Upper canopy","Open",32.5
+"1873",10,32,"Early recovery","Upper canopy","Open",88
+"1874",11,199,"BS","Upper canopy","Open",82.84
+"1875",11.1,80,"D","Upper canopy","Open",62.09
+"1876",11.2,99,"D","Upper canopy","Open",48.33
+"1877",11.3,45,"D","Upper canopy","Open",98.75
+"1878",11.4,54,"D","Upper canopy","Open",92.1
+"1879",12,60,"D","Upper canopy","Open",62
+"1880",13,76,"D","Upper canopy","Open",21.84
+"1881",13.1,85,"D","Upper canopy","Open",16.25
+"1882",13.2,85,"D","Upper canopy","Open",13.33
+"1883",14,15,"Early recovery","Upper canopy","Open",80.9
+"1884",14.1,87,"BS","Upper canopy","Open",55.84
+"1885",14.2,134,"BS","Upper canopy","Open",63.75
+"1886",14.3,65,"BS","Upper canopy","Open",54.84
+"1887",14.4,136,"BS","Upper canopy","Open",69.8
+"1888",14.5,134,"WS","Upper canopy","Open",52
+"1889",14.6,81,"BS","Upper canopy","Open",28.51
+"1890",15,47,"D","Upper canopy","Open",82.03
+"1891",15.1,78,"BS","Upper canopy","Open",100
+"1892",15.2,83,"BS","Upper canopy","Open",84.42
+"1893",15.3,85,"BS","Upper canopy","Open",100
+"1894",15.4,75,"BS","Upper canopy","Open",56.7
+"1895",15.5,80,"BS","Upper canopy","Open",100
+"1896",15.6,83,"BS","Upper canopy","Open",70.8333
+"1897",16,3,"recent fire","Upper canopy","Open",98.4
+"1898",16.1,118,"D","Upper canopy","Open",66.39
+"1899",16.2,100,"D","Upper canopy","Open",88.59
+"1900",16.3,106,"D","Upper canopy","Open",70.59
+"1901",16.4,68,"D","Upper canopy","Open",80.42
+"1902",16.5,138,"D","Upper canopy","Open",65.666
+"1903",16.6,68,"D","Upper canopy","Open",91.67
+"1904",17,16,"Early recovery","Upper canopy","Open",100
+"1905",17.1,176,"D","Upper canopy","Open",63.75
+"1906",17.2,69,"D","Upper canopy","Open",49
+"1907",17.3,118,"D","Upper canopy","Open",55.253
+"1908",17.4,136,"D","Upper canopy","Open",60.34
+"1909",17.5,148,"D","Upper canopy","Open",60.19
+"1910",17.6,72,"D","Upper canopy","Open",58.67
+"1911",18,8,"recent fire","Upper canopy","Open",98.8
+"1912",18.1,125,"BS","Upper canopy","Open",98
+"1913",18.2,175,"D","Upper canopy","Open",97.84
+"1914",19,60,"D","Upper canopy","Open",88
+"1915",20,14,"Early recovery","Upper canopy","Open",95
+"1916",20.1,75,"BS","Upper canopy","Open",84.17
+"1917",20.2,63,"BS","Upper canopy","Open",100
+"1918",20.3,73,"BS","Upper canopy","Open",98.4
+"1919",21.1,73,"BS","Upper canopy","Open",98
+"1920",21.2,106,"BS","Upper canopy","Open",90.7
+"1921",22.1,60,"D","Upper canopy","Open",45.1
+"1922",22.2,70,"WS","Upper canopy","Open",66.7
+"1923",22.3,50,"D","Upper canopy","Open",28
+"1924",23.2,83,"D","Upper canopy","Open",55.84
+"1925",23.3,76,"D","Upper canopy","Open",68.4
+"1926",24.1,83,"WS","Upper canopy","Open",95.7
+"1927",24.2,142,"D","Upper canopy","Open",33.34
+"1928",24.3,134,"WS","Upper canopy","Open",68.34
+"1929",25.1,75,"WS","Upper canopy","Open",51.7
+"1930",25.2,94,"D","Upper canopy","Open",35.9
+"1931",25.3,140,"WS","Upper canopy","Open",85
+"1932",27.1,84,"BS","Upper canopy","Open",39.2
+"1933",27.2,66,"BS","Upper canopy","Open",59.2
+"1934",27.3,85,"BS","Upper canopy","Open",51.67
+"1935",29.1,65,"WS","Upper canopy","Open",97
+"1936",29.2,52,"D","Upper canopy","Open",61.7
+"1937",29.3,52,"WS","Upper canopy","Open",38.34
+"1938",29.4,105,"WS","Upper canopy","Open",65
+"1939",1,196,"D","Lower canopy","Open",63.84
+"1940",1.1,83,"BS","Lower canopy","Open",40.87
+"1941",1.2,93,"WS","Lower canopy","Open",20.2
+"1942",1.3,158,"WS","Lower canopy","Open",40.5
+"1943",2,35,"D","Lower canopy","Open",79.62
+"1944",2.1,140,"D","Lower canopy","Open",74.17
+"1945",2.2,170,"WS","Lower canopy","Open",67.5
+"1946",3,185,"D","Lower canopy","Open",60
+"1947",3.1,128,"D","Lower canopy","Open",18.34
+"1948",3.2,174,"D","Lower canopy","Open",34.26
+"1949",3.3,60,"D","Lower canopy","Open",26.35
+"1950",4,85,"D","Lower canopy","Open",76.01
+"1951",4.1,48,"D","Lower canopy","Open",62.5
+"1952",4.2,60,"D","Lower canopy","Open",74.5
+"1953",4.3,71,"D","Lower canopy","Open",46.5
+"1954",4.4,58,"D","Lower canopy","Open",74.5
+"1955",5,5,"recent fire","Lower canopy","Open",53.5
+"1956",5.5,85,"BS","Lower canopy","Open",66.88
+"1957",5.6,92,"BS","Lower canopy","Open",67.6
+"1958",6,52,"WS","Lower canopy","Open",71.67
+"1959",6.1,77,"D","Lower canopy","Open",73
+"1960",6.2,90,"D","Lower canopy","Open",62.59
+"1961",6.3,87,"D","Lower canopy","Open",65.34
+"1962",6.4,89,"D","Lower canopy","Open",58.8
+"1963",7,177,"WS","Lower canopy","Open",90.84
+"1964",7.1,85,"D","Lower canopy","Open",77.5
+"1965",7.2,80,"D","Lower canopy","Open",66.26
+"1966",7.5,102,"BS","Lower canopy","Open",51.25
+"1967",7.6,114,"BS","Lower canopy","Open",100
+"1968",8,19,"Early recovery","Lower canopy","Open",93.17
+"1969",9,76,"BS","Lower canopy","Open",75.67
+"1970",9.2,73,"D","Lower canopy","Open",20.94
+"1971",9.3,78,"D","Lower canopy","Open",65
+"1972",9.4,122,"BS","Lower canopy","Open",46.25
+"1973",9.5,67,"D","Lower canopy","Open",66.6
+"1974",9.6,114,"D","Lower canopy","Open",68.1
+"1975",10,32,"Early recovery","Lower canopy","Open",80.9
+"1976",11,199,"BS","Lower canopy","Open",61.64
+"1977",11.1,80,"D","Lower canopy","Open",45.84
+"1978",11.2,99,"D","Lower canopy","Open",56.35
+"1979",11.3,45,"D","Lower canopy","Open",52.93
+"1980",11.4,54,"D","Lower canopy","Open",30.51
+"1981",12,60,"D","Lower canopy","Open",62.769
+"1982",13,76,"D","Lower canopy","Open",48.17
+"1983",13.1,85,"D","Lower canopy","Open",86.17
+"1984",13.2,85,"D","Lower canopy","Open",93.35
+"1985",14,15,"Early recovery","Lower canopy","Open",79.44
+"1986",14.1,87,"BS","Lower canopy","Open",72.8
+"1987",14.2,134,"BS","Lower canopy","Open",73.74
+"1988",14.3,65,"BS","Lower canopy","Open",60.84
+"1989",14.4,136,"BS","Lower canopy","Open",66.34
+"1990",14.5,134,"WS","Lower canopy","Open",91
+"1991",14.6,81,"BS","Lower canopy","Open",98.7
+"1992",15,47,"D","Lower canopy","Open",69.04
+"1993",15.1,78,"BS","Lower canopy","Open",67.9
+"1994",15.2,83,"BS","Lower canopy","Open",96.85
+"1995",15.3,85,"BS","Lower canopy","Open",77.75
+"1996",15.4,75,"BS","Lower canopy","Open",86.67
+"1997",15.5,80,"BS","Lower canopy","Open",75.5
+"1998",15.6,83,"BS","Lower canopy","Open",62.59
+"1999",16,3,"recent fire","Lower canopy","Open",96.74
+"2000",16.1,118,"D","Lower canopy","Open",59.2600000000001
+"2001",16.2,100,"D","Lower canopy","Open",43.26
+"2002",16.3,106,"D","Lower canopy","Open",79.84
+"2003",16.4,68,"D","Lower canopy","Open",97.75
+"2004",16.5,138,"D","Lower canopy","Open",86.84
+"2005",16.6,68,"D","Lower canopy","Open",34.85
+"2006",17,16,"Early recovery","Lower canopy","Open",88.74
+"2007",17.1,176,"D","Lower canopy","Open",36
+"2008",17.2,69,"D","Lower canopy","Open",77
+"2009",17.3,118,"D","Lower canopy","Open",65.5
+"2010",17.4,136,"D","Lower canopy","Open",84.5
+"2011",17.5,148,"D","Lower canopy","Open",76.7
+"2012",17.6,72,"D","Lower canopy","Open",52.5
+"2013",18,8,"recent fire","Lower canopy","Open",77.2
+"2014",18.1,125,"BS","Lower canopy","Open",71.67
+"2015",18.2,175,"D","Lower canopy","Open",67.4
+"2016",19,60,"D","Lower canopy","Open",73.83
+"2017",20,14,"Early recovery","Lower canopy","Open",87
+"2018",20.1,75,"BS","Lower canopy","Open",50.57
+"2019",20.2,63,"BS","Lower canopy","Open",40.84
+"2020",20.3,73,"BS","Lower canopy","Open",41.71
+"2021",21.1,73,"BS","Lower canopy","Open",56.7000000000001
+"2022",21.2,106,"BS","Lower canopy","Open",41.67
+"2023",22.1,60,"D","Lower canopy","Open",65.4800000000001
+"2024",22.2,70,"WS","Lower canopy","Open",55.01
+"2025",22.3,50,"D","Lower canopy","Open",92.84
+"2026",23.2,83,"D","Lower canopy","Open",85
+"2027",23.3,76,"D","Lower canopy","Open",46.6800000000001
+"2028",24.1,83,"WS","Lower canopy","Open",45.84
+"2029",24.2,142,"D","Lower canopy","Open",60.67
+"2030",24.3,134,"WS","Lower canopy","Open",84.17
+"2031",25.1,75,"WS","Lower canopy","Open",85.01
+"2032",25.2,94,"D","Lower canopy","Open",86.7
+"2033",25.3,140,"WS","Lower canopy","Open",74.7
+"2034",27.1,84,"BS","Lower canopy","Open",70.1
+"2035",27.2,66,"BS","Lower canopy","Open",49.8400000000001
+"2036",27.3,85,"BS","Lower canopy","Open",51.58
+"2037",29.1,65,"WS","Lower canopy","Open",98
+"2038",29.2,52,"D","Lower canopy","Open",37.48
+"2039",29.3,52,"WS","Lower canopy","Open",76.54
+"2040",29.4,105,"WS","Lower canopy","Open",82.5
+"2041",1,196,"D","Ground","Open",20.4
+"2042",1.1,83,"BS","Ground","Open",7.92999999999999
+"2043",1.2,93,"WS","Ground","Open",10.83
+"2044",1.3,158,"WS","Ground","Open",70.01
+"2045",2,35,"D","Ground","Open",66.22
+"2046",2.1,140,"D","Ground","Open",9.59
+"2047",2.2,170,"WS","Ground","Open",10.03
+"2048",3,185,"D","Ground","Open",37.74
+"2049",3.1,128,"D","Ground","Open",70.7
+"2050",3.2,174,"D","Ground","Open",9.60000000000001
+"2051",3.3,60,"D","Ground","Open",19.2
+"2052",4,85,"D","Ground","Open",51.18
+"2053",4.1,48,"D","Ground","Open",7.5
+"2054",4.2,60,"D","Ground","Open",22.12
+"2055",4.3,71,"D","Ground","Open",35.01
+"2056",4.4,58,"D","Ground","Open",19.57
+"2057",5,5,"recent fire","Ground","Open",37.67
+"2058",5.5,85,"BS","Ground","Open",24.59
+"2059",5.6,92,"BS","Ground","Open",43.5
+"2060",6,52,"WS","Ground","Open",21.17
+"2061",6.1,77,"D","Ground","Open",76.69
+"2062",6.2,90,"D","Ground","Open",63.8
+"2063",6.3,87,"D","Ground","Open",72.09
+"2064",6.4,89,"D","Ground","Open",89.5
+"2065",7,177,"WS","Ground","Open",35.51
+"2066",7.1,85,"D","Ground","Open",84.76
+"2067",7.2,80,"D","Ground","Open",59
+"2068",7.5,102,"BS","Ground","Open",0.920000000000002
+"2069",7.6,114,"BS","Ground","Open",0.900000000000006
+"2070",8,19,"Early recovery","Ground","Open",47.51
+"2071",9,76,"BS","Ground","Open",15.17
+"2072",9.2,73,"D","Ground","Open",25.84
+"2073",9.3,78,"D","Ground","Open",43.33
+"2074",9.4,122,"BS","Ground","Open",33
+"2075",9.5,67,"D","Ground","Open",16.26
+"2076",9.6,114,"D","Ground","Open",20.42
+"2077",10,32,"Early recovery","Ground","Open",95
+"2078",11,199,"BS","Ground","Open",62.67
+"2079",11.1,80,"D","Ground","Open",100
+"2080",11.2,99,"D","Ground","Open",31.01
+"2081",11.3,45,"D","Ground","Open",13.84
+"2082",11.4,54,"D","Ground","Open",33.75
+"2083",12,60,"D","Ground","Open",26.17
+"2084",13,76,"D","Ground","Open",85.67
+"2085",13.1,85,"D","Ground","Open",49.42
+"2086",13.2,85,"D","Ground","Open",34.17
+"2087",14,15,"Early recovery","Ground","Open",19.87
+"2088",14.1,87,"BS","Ground","Open",0.117000000000004
+"2089",14.2,134,"BS","Ground","Open",66.36
+"2090",14.3,65,"BS","Ground","Open",1.01000000000001
+"2091",14.4,136,"BS","Ground","Open",60.39
+"2092",14.5,134,"WS","Ground","Open",14.69
+"2093",14.6,81,"BS","Ground","Open",5.90000000000001
+"2094",15,47,"D","Ground","Open",19.11
+"2095",15.1,78,"BS","Ground","Open",7.2
+"2096",15.2,83,"BS","Ground","Open",0
+"2097",15.3,85,"BS","Ground","Open",30.42
+"2098",15.4,75,"BS","Ground","Open",27.6
+"2099",15.5,80,"BS","Ground","Open",97.5
+"2100",15.6,83,"BS","Ground","Open",27.4
+"2101",16,3,"recent fire","Ground","Open",50.44
+"2102",16.1,118,"D","Ground","Open",11.26
+"2103",16.2,100,"D","Ground","Open",10.29
+"2104",16.3,106,"D","Ground","Open",28.92
+"2105",16.4,68,"D","Ground","Open",9.59
+"2106",16.5,138,"D","Ground","Open",13
+"2107",16.6,68,"D","Ground","Open",2.51000000000001
+"2108",17,16,"Early recovery","Ground","Open",41.3
+"2109",17.1,176,"D","Ground","Open",30.59
+"2110",17.2,69,"D","Ground","Open",75.4
+"2111",17.3,118,"D","Ground","Open",39.9
+"2112",17.4,136,"D","Ground","Open",93.4
+"2113",17.5,148,"D","Ground","Open",20
+"2114",17.6,72,"D","Ground","Open",24.5
+"2115",18,8,"recent fire","Ground","Open",20
+"2116",18.1,125,"BS","Ground","Open",61.25
+"2117",18.2,175,"D","Ground","Open",38.84
+"2118",19,60,"D","Ground","Open",42.4
+"2119",20,14,"Early recovery","Ground","Open",48.64
+"2120",20.1,75,"BS","Ground","Open",0.0400000000000063
+"2121",20.2,63,"BS","Ground","Open",0
+"2122",20.3,73,"BS","Ground","Open",7.57000000000001
+"2123",21.1,73,"BS","Ground","Open",0
+"2124",21.2,106,"BS","Ground","Open",40.9
+"2125",22.1,60,"D","Ground","Open",83.33
+"2126",22.2,70,"WS","Ground","Open",10.17
+"2127",22.3,50,"D","Ground","Open",34.1
+"2128",23.2,83,"D","Ground","Open",12.01
+"2129",23.3,76,"D","Ground","Open",36.84
+"2130",24.1,83,"WS","Ground","Open",17.24
+"2131",24.2,142,"D","Ground","Open",88.4
+"2132",24.3,134,"WS","Ground","Open",22.54
+"2133",25.1,75,"WS","Ground","Open",14.2
+"2134",25.2,94,"D","Ground","Open",56
+"2135",25.3,140,"WS","Ground","Open",29.17
+"2136",27.1,84,"BS","Ground","Open",11.68
+"2137",27.2,66,"BS","Ground","Open",8.68000000000001
+"2138",27.3,85,"BS","Ground","Open",46.5
+"2139",29.1,65,"WS","Ground","Open",0.0100000000000051
+"2140",29.2,52,"D","Ground","Open",33.5
+"2141",29.3,52,"WS","Ground","Open",48.34
+"2142",29.4,105,"WS","Ground","Open",50.6
