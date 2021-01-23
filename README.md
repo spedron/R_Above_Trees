@@ -1,5 +1,3 @@
-# R_EAGER
-
 A project for the scientific results of the 2017-2018 research regarding greening/browning NDVI trends,
 funded by NASA ABoVE #NNX15AU16A (to Michael Goulden and Claudia Czimczik) 
 
